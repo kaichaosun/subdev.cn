@@ -8,7 +8,12 @@
 module.exports = {
   docs: {
     如何学习: ['learn_resource'],
-    Docusaurus: ['doc1', 'doc2', 'doc3'],
-    Features: ['mdx'],
+    区块链应用开发: [
+      'dappchain/install',
+      'dappchain/setup_local_network',
+      'dappchain/add_custom_module',
+      'dappchain/add_test',
+      'dappchain/add_ui'
+    ],
   },
 };

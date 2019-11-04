@@ -7,12 +7,12 @@
 
 module.exports = {
   title: 'Substrate 开发者社区',
-  tagline: '引领区块链开发的潮流',
+  tagline: '助力区块链开发者',
   url: 'https://subdev.cn',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'substrater', // Usually your GitHub org/user name.
+  projectName: 'SubDev', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: '主页',
@@ -21,11 +21,11 @@ module.exports = {
         src: 'img/logo.svg',
       },
       links: [
-        {to: 'docs/doc1', label: '学习资料', position: 'left'},
+        {to: 'docs/learn_resource', label: '学习资料', position: 'left'},
         {to: 'https://substrater.org', label: '论坛', position: 'left'},
         {to: 'blog', label: '博客', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/substrater/subdev.cn',
           label: 'GitHub',
           position: 'right',
         },
