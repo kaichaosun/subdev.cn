@@ -25,7 +25,7 @@ jobs:
             # install Docusaurus and generate file of English strings
             yarn install
             # build and publish website
-            USE_SSH=true GIT_USER=git yarn run publish-gh-pages
+            USE_SSH=true GIT_USER=git yarn run deploy
 
   check-build:
     docker:
