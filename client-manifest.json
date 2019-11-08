@@ -192,14 +192,14 @@
         {
           "file": "0.beb5263729d2db16c046.css",
           "hash": "1aef80adf2eb16b8946a",
-          "publicPath": "/0.beb5263729d2db16c046.css"
+          "publicPath": "/subdev.cn/0.beb5263729d2db16c046.css"
         }
       ],
       "js": [
         {
           "file": "0.f4430d4264618b5b7084.js",
           "hash": "1aef80adf2eb16b8946a",
-          "publicPath": "/0.f4430d4264618b5b7084.js"
+          "publicPath": "/subdev.cn/0.f4430d4264618b5b7084.js"
         }
       ]
     },
@@ -208,14 +208,14 @@
         {
           "file": "1.2d0cefca6f8bbc3f601c.css",
           "hash": "61b3704b9a77cd7dbbc9",
-          "publicPath": "/1.2d0cefca6f8bbc3f601c.css"
+          "publicPath": "/subdev.cn/1.2d0cefca6f8bbc3f601c.css"
         }
       ],
       "js": [
         {
           "file": "1.e6b3bb556b317662fc22.js",
           "hash": "61b3704b9a77cd7dbbc9",
-          "publicPath": "/1.e6b3bb556b317662fc22.js"
+          "publicPath": "/subdev.cn/1.e6b3bb556b317662fc22.js"
         }
       ]
     },
@@ -224,14 +224,14 @@
         {
           "file": "component---site-src-pages-index-jsc-4-f-f99.9f99729bff7f082bd679.css",
           "hash": "d814626f6869eb349c94",
-          "publicPath": "/component---site-src-pages-index-jsc-4-f-f99.9f99729bff7f082bd679.css"
+          "publicPath": "/subdev.cn/component---site-src-pages-index-jsc-4-f-f99.9f99729bff7f082bd679.css"
         }
       ],
       "js": [
         {
           "file": "component---site-src-pages-index-jsc-4-f-f99.6ea7f10d27d42f5c20be.js",
           "hash": "d814626f6869eb349c94",
-          "publicPath": "/component---site-src-pages-index-jsc-4-f-f99.6ea7f10d27d42f5c20be.js"
+          "publicPath": "/subdev.cn/component---site-src-pages-index-jsc-4-f-f99.6ea7f10d27d42f5c20be.js"
         }
       ]
     },
@@ -239,15 +239,15 @@
       "css": [
         {
           "file": "component---theme-blog-list-pagea-6-a-7ba.42d18faa279882580cbb.css",
-          "hash": "d0bdc8ed4e782f9c1379",
-          "publicPath": "/component---theme-blog-list-pagea-6-a-7ba.42d18faa279882580cbb.css"
+          "hash": "33188b655637d5d37c91",
+          "publicPath": "/subdev.cn/component---theme-blog-list-pagea-6-a-7ba.42d18faa279882580cbb.css"
         }
       ],
       "js": [
         {
-          "file": "component---theme-blog-list-pagea-6-a-7ba.47554e370d7d32c77940.js",
-          "hash": "d0bdc8ed4e782f9c1379",
-          "publicPath": "/component---theme-blog-list-pagea-6-a-7ba.47554e370d7d32c77940.js"
+          "file": "component---theme-blog-list-pagea-6-a-7ba.6cf6e7f8a3eb4088c5ac.js",
+          "hash": "33188b655637d5d37c91",
+          "publicPath": "/subdev.cn/component---theme-blog-list-pagea-6-a-7ba.6cf6e7f8a3eb4088c5ac.js"
         }
       ]
     },
@@ -255,15 +255,15 @@
       "css": [
         {
           "file": "component---theme-blog-post-pageccc-cab.42d18faa279882580cbb.css",
-          "hash": "4ff8e7282068121aca50",
-          "publicPath": "/component---theme-blog-post-pageccc-cab.42d18faa279882580cbb.css"
+          "hash": "8f3a8ca0fb39afd65d95",
+          "publicPath": "/subdev.cn/component---theme-blog-post-pageccc-cab.42d18faa279882580cbb.css"
         }
       ],
       "js": [
         {
-          "file": "component---theme-blog-post-pageccc-cab.6004287a0f3637587519.js",
-          "hash": "4ff8e7282068121aca50",
-          "publicPath": "/component---theme-blog-post-pageccc-cab.6004287a0f3637587519.js"
+          "file": "component---theme-blog-post-pageccc-cab.6108a43cd1ad60b34245.js",
+          "hash": "8f3a8ca0fb39afd65d95",
+          "publicPath": "/subdev.cn/component---theme-blog-post-pageccc-cab.6108a43cd1ad60b34245.js"
         }
       ]
     },
@@ -272,7 +272,7 @@
         {
           "file": "component---theme-blog-tags-list-page-01-a-d0b.85f30dd2cf62990dca68.js",
           "hash": "74a4999e242bf0343c68",
-          "publicPath": "/component---theme-blog-tags-list-page-01-a-d0b.85f30dd2cf62990dca68.js"
+          "publicPath": "/subdev.cn/component---theme-blog-tags-list-page-01-a-d0b.85f30dd2cf62990dca68.js"
         }
       ]
     },
@@ -281,14 +281,14 @@
         {
           "file": "component---theme-blog-tags-posts-page-687-b6c.42d18faa279882580cbb.css",
           "hash": "4c5f56b07cb9d81978f6",
-          "publicPath": "/component---theme-blog-tags-posts-page-687-b6c.42d18faa279882580cbb.css"
+          "publicPath": "/subdev.cn/component---theme-blog-tags-posts-page-687-b6c.42d18faa279882580cbb.css"
         }
       ],
       "js": [
         {
           "file": "component---theme-blog-tags-posts-page-687-b6c.483569ca8a19571e10ef.js",
           "hash": "4c5f56b07cb9d81978f6",
-          "publicPath": "/component---theme-blog-tags-posts-page-687-b6c.483569ca8a19571e10ef.js"
+          "publicPath": "/subdev.cn/component---theme-blog-tags-posts-page-687-b6c.483569ca8a19571e10ef.js"
         }
       ]
     },
@@ -296,15 +296,15 @@
       "css": [
         {
           "file": "component---theme-doc-item-178-a40.de2648345892298aff25.css",
-          "hash": "508933b41056a292efc2",
-          "publicPath": "/component---theme-doc-item-178-a40.de2648345892298aff25.css"
+          "hash": "83ef7d5d4893a9ac0b13",
+          "publicPath": "/subdev.cn/component---theme-doc-item-178-a40.de2648345892298aff25.css"
         }
       ],
       "js": [
         {
-          "file": "component---theme-doc-item-178-a40.fceb1295438a0048b4c0.js",
-          "hash": "508933b41056a292efc2",
-          "publicPath": "/component---theme-doc-item-178-a40.fceb1295438a0048b4c0.js"
+          "file": "component---theme-doc-item-178-a40.d4f0c9c08165c6fd64e8.js",
+          "hash": "83ef7d5d4893a9ac0b13",
+          "publicPath": "/subdev.cn/component---theme-doc-item-178-a40.d4f0c9c08165c6fd64e8.js"
         }
       ]
     },
@@ -313,32 +313,32 @@
         {
           "file": "component---theme-doc-page-1-be-9be.a7dc664af81736e8f518.css",
           "hash": "926804e3dbf0d3f0acbc",
-          "publicPath": "/component---theme-doc-page-1-be-9be.a7dc664af81736e8f518.css"
+          "publicPath": "/subdev.cn/component---theme-doc-page-1-be-9be.a7dc664af81736e8f518.css"
         }
       ],
       "js": [
         {
           "file": "component---theme-doc-page-1-be-9be.6d8b707092b19487ef62.js",
           "hash": "926804e3dbf0d3f0acbc",
-          "publicPath": "/component---theme-doc-page-1-be-9be.6d8b707092b19487ef62.js"
+          "publicPath": "/subdev.cn/component---theme-doc-page-1-be-9be.6d8b707092b19487ef62.js"
         }
       ]
     },
     "9": {
       "js": [
         {
-          "file": "content---subdev-cn-blog-357-d39.b65f002bcc58bf386830.js",
-          "hash": "f5650df19833c43d4da8",
-          "publicPath": "/content---subdev-cn-blog-357-d39.b65f002bcc58bf386830.js"
+          "file": "content---subdev-cn-blog-357-d39.d5b88c30f772e4c54845.js",
+          "hash": "8f28748b5d9bc8efa9c1",
+          "publicPath": "/subdev.cn/content---subdev-cn-blog-357-d39.d5b88c30f772e4c54845.js"
         }
       ]
     },
     "10": {
       "js": [
         {
-          "file": "content---subdev-cn-blog-8-e-9-e36.362f5ea1048746f475a4.js",
-          "hash": "7b64b3009c55af05b9f3",
-          "publicPath": "/content---subdev-cn-blog-8-e-9-e36.362f5ea1048746f475a4.js"
+          "file": "content---subdev-cn-blog-8-e-9-e36.4b3c1309a83f78613a55.js",
+          "hash": "bbdb9f52f9b4c3c4bdec",
+          "publicPath": "/subdev.cn/content---subdev-cn-blog-8-e-9-e36.4b3c1309a83f78613a55.js"
         }
       ]
     },
@@ -347,7 +347,7 @@
         {
           "file": "content---subdev-cn-blog-hello-worldd-61-6f9.dc48ef30cc8c6cf7bf7b.js",
           "hash": "dc3a07d7baabf81c1ac9",
-          "publicPath": "/content---subdev-cn-blog-hello-worldd-61-6f9.dc48ef30cc8c6cf7bf7b.js"
+          "publicPath": "/subdev.cn/content---subdev-cn-blog-hello-worldd-61-6f9.dc48ef30cc8c6cf7bf7b.js"
         }
       ]
     },
@@ -356,7 +356,7 @@
         {
           "file": "content---subdev-cn-blog-holabdd-b2b.e4eebd99188ff045da21.js",
           "hash": "c25c4b860cfd1c907b9d",
-          "publicPath": "/content---subdev-cn-blog-holabdd-b2b.e4eebd99188ff045da21.js"
+          "publicPath": "/subdev.cn/content---subdev-cn-blog-holabdd-b2b.e4eebd99188ff045da21.js"
         }
       ]
     },
@@ -365,61 +365,61 @@
         {
           "file": "content---subdev-cn-blog-welcome-286-652.927441d1691f983a7761.js",
           "hash": "77d17ec4796a8a8eaab1",
-          "publicPath": "/content---subdev-cn-blog-welcome-286-652.927441d1691f983a7761.js"
+          "publicPath": "/subdev.cn/content---subdev-cn-blog-welcome-286-652.927441d1691f983a7761.js"
         }
       ]
     },
     "14": {
       "js": [
         {
-          "file": "content---subdev-cn-blogaf-1-646.31bc08b5166a988ea48b.js",
-          "hash": "5b03404e259886f41c67",
-          "publicPath": "/content---subdev-cn-blogaf-1-646.31bc08b5166a988ea48b.js"
+          "file": "content---subdev-cn-blogaf-1-646.6173e55b06d049ce0cd0.js",
+          "hash": "d9e6e2c2c2ebd0c87aba",
+          "publicPath": "/subdev.cn/content---subdev-cn-blogaf-1-646.6173e55b06d049ce0cd0.js"
         }
       ]
     },
     "15": {
       "js": [
         {
-          "file": "content---subdev-cn-docs-dappchain-add-custom-module-97-c-01a.361725e172fb2acb3612.js",
-          "hash": "ac4bc1fed15f5ef15f51",
-          "publicPath": "/content---subdev-cn-docs-dappchain-add-custom-module-97-c-01a.361725e172fb2acb3612.js"
+          "file": "content---subdev-cn-docs-dappchain-add-custom-module-97-c-01a.a8f17af53f5e9dde1c1c.js",
+          "hash": "a9f9577693b46aa47306",
+          "publicPath": "/subdev.cn/content---subdev-cn-docs-dappchain-add-custom-module-97-c-01a.a8f17af53f5e9dde1c1c.js"
         }
       ]
     },
     "16": {
       "js": [
         {
-          "file": "content---subdev-cn-docs-dappchain-add-test-8-f-2-a27.76285f88b4d09f8b1994.js",
-          "hash": "a538f646caf0f9f2b756",
-          "publicPath": "/content---subdev-cn-docs-dappchain-add-test-8-f-2-a27.76285f88b4d09f8b1994.js"
+          "file": "content---subdev-cn-docs-dappchain-add-test-8-f-2-a27.ce577b1e3ec7e5c00241.js",
+          "hash": "22fa7ec7e16db6a1926b",
+          "publicPath": "/subdev.cn/content---subdev-cn-docs-dappchain-add-test-8-f-2-a27.ce577b1e3ec7e5c00241.js"
         }
       ]
     },
     "17": {
       "js": [
         {
-          "file": "content---subdev-cn-docs-dappchain-add-ui-5-aa-eda.1c3e937c0fc900791582.js",
-          "hash": "b1e6cfd1484391e3207d",
-          "publicPath": "/content---subdev-cn-docs-dappchain-add-ui-5-aa-eda.1c3e937c0fc900791582.js"
+          "file": "content---subdev-cn-docs-dappchain-add-ui-5-aa-eda.295ca483601fe7378735.js",
+          "hash": "a6ef8ac826c40b74aec2",
+          "publicPath": "/subdev.cn/content---subdev-cn-docs-dappchain-add-ui-5-aa-eda.295ca483601fe7378735.js"
         }
       ]
     },
     "18": {
       "js": [
         {
-          "file": "content---subdev-cn-docs-dappchain-deploy-parachainf-8-f-801.ab00528f78d3ece9ac1d.js",
-          "hash": "98977980068ea6426945",
-          "publicPath": "/content---subdev-cn-docs-dappchain-deploy-parachainf-8-f-801.ab00528f78d3ece9ac1d.js"
+          "file": "content---subdev-cn-docs-dappchain-deploy-parachainf-8-f-801.f9987ad5c2db2aeac649.js",
+          "hash": "9660e0c1837ed687733c",
+          "publicPath": "/subdev.cn/content---subdev-cn-docs-dappchain-deploy-parachainf-8-f-801.f9987ad5c2db2aeac649.js"
         }
       ]
     },
     "19": {
       "js": [
         {
-          "file": "content---subdev-cn-docs-dappchain-deploy-parathread-801-b35.13ad6e89769d1accd40b.js",
-          "hash": "bab41e6a87600682a2ac",
-          "publicPath": "/content---subdev-cn-docs-dappchain-deploy-parathread-801-b35.13ad6e89769d1accd40b.js"
+          "file": "content---subdev-cn-docs-dappchain-deploy-parathread-801-b35.1144c25197437d4189ea.js",
+          "hash": "5d6365e4d1c68b967c5b",
+          "publicPath": "/subdev.cn/content---subdev-cn-docs-dappchain-deploy-parathread-801-b35.1144c25197437d4189ea.js"
         }
       ]
     },
@@ -428,70 +428,70 @@
         {
           "file": "content---subdev-cn-docs-dappchain-deploy-standalonea-8-c-c2d.155c8b28b01189cd293f.js",
           "hash": "d408cf5218dfce07b20d",
-          "publicPath": "/content---subdev-cn-docs-dappchain-deploy-standalonea-8-c-c2d.155c8b28b01189cd293f.js"
+          "publicPath": "/subdev.cn/content---subdev-cn-docs-dappchain-deploy-standalonea-8-c-c2d.155c8b28b01189cd293f.js"
         }
       ]
     },
     "21": {
       "js": [
         {
-          "file": "content---subdev-cn-docs-dappchain-install-5-f-8-78a.0180bad002124d0a8e03.js",
-          "hash": "d6e084d7c52f8e690918",
-          "publicPath": "/content---subdev-cn-docs-dappchain-install-5-f-8-78a.0180bad002124d0a8e03.js"
+          "file": "content---subdev-cn-docs-dappchain-install-5-f-8-78a.bf6323bfa7cb2d8ad4f1.js",
+          "hash": "fda8262d3cb64814876c",
+          "publicPath": "/subdev.cn/content---subdev-cn-docs-dappchain-install-5-f-8-78a.bf6323bfa7cb2d8ad4f1.js"
         }
       ]
     },
     "22": {
       "js": [
         {
-          "file": "content---subdev-cn-docs-dappchain-setup-local-networkab-6-46b.b14d25f11f12872830cb.js",
-          "hash": "3e85408f37e3709103f2",
-          "publicPath": "/content---subdev-cn-docs-dappchain-setup-local-networkab-6-46b.b14d25f11f12872830cb.js"
+          "file": "content---subdev-cn-docs-dappchain-setup-local-networkab-6-46b.769e30f09846a4f141a3.js",
+          "hash": "992bc9e687a8a3a48750",
+          "publicPath": "/subdev.cn/content---subdev-cn-docs-dappchain-setup-local-networkab-6-46b.769e30f09846a4f141a3.js"
         }
       ]
     },
     "23": {
       "js": [
         {
-          "file": "content---subdev-cn-docs-doc-1-b-2-f-2f3.3eb4c2fe72d8e2035f9f.js",
-          "hash": "fdc677ecd0fb482eb6d5",
-          "publicPath": "/content---subdev-cn-docs-doc-1-b-2-f-2f3.3eb4c2fe72d8e2035f9f.js"
+          "file": "content---subdev-cn-docs-doc-1-b-2-f-2f3.4256be68b67451d9e159.js",
+          "hash": "d0bfd33b06af4ffb45c3",
+          "publicPath": "/subdev.cn/content---subdev-cn-docs-doc-1-b-2-f-2f3.4256be68b67451d9e159.js"
         }
       ]
     },
     "24": {
       "js": [
         {
-          "file": "content---subdev-cn-docs-how-to-dev-140-ca0.0e1568e65bf2a83d7b5b.js",
-          "hash": "be9ad28b1c95791a48e3",
-          "publicPath": "/content---subdev-cn-docs-how-to-dev-140-ca0.0e1568e65bf2a83d7b5b.js"
+          "file": "content---subdev-cn-docs-how-to-dev-140-ca0.ab4598625df2f02792a8.js",
+          "hash": "809fc3de59ea0feb9a9d",
+          "publicPath": "/subdev.cn/content---subdev-cn-docs-how-to-dev-140-ca0.ab4598625df2f02792a8.js"
         }
       ]
     },
     "25": {
       "js": [
         {
-          "file": "content---subdev-cn-docs-learn-resource-2-c-1-5be.8609a7b14fe48434e66c.js",
-          "hash": "fe38e82db725eac00479",
-          "publicPath": "/content---subdev-cn-docs-learn-resource-2-c-1-5be.8609a7b14fe48434e66c.js"
+          "file": "content---subdev-cn-docs-learn-resource-2-c-1-5be.7476d084a5ecdc3a0db0.js",
+          "hash": "e9ac2a4d63ac1277ab90",
+          "publicPath": "/subdev.cn/content---subdev-cn-docs-learn-resource-2-c-1-5be.7476d084a5ecdc3a0db0.js"
         }
       ]
     },
     "26": {
       "js": [
         {
-          "file": "content---subdev-cn-docs-mdxce-3-1a1.a88e15021e54b8c39ec7.js",
-          "hash": "27100a5666811b8e7d8a",
-          "publicPath": "/content---subdev-cn-docs-mdxce-3-1a1.a88e15021e54b8c39ec7.js"
+          "file": "content---subdev-cn-docs-mdxce-3-1a1.bcfda9d75852b0e88703.js",
+          "hash": "34c4682031dc8a1e5383",
+          "publicPath": "/subdev.cn/content---subdev-cn-docs-mdxce-3-1a1.bcfda9d75852b0e88703.js"
         }
       ]
     },
     "27": {
       "js": [
         {
-          "file": "docsMetadata---subdev-cn-docs-057-154.96e71d9185b1aa425cd3.js",
-          "hash": "dfc406083adac3f5518b",
-          "publicPath": "/docsMetadata---subdev-cn-docs-057-154.96e71d9185b1aa425cd3.js"
+          "file": "docsMetadata---subdev-cn-docs-057-154.0bb67635aa11ecc72234.js",
+          "hash": "97e07dbeaeddcbb80b72",
+          "publicPath": "/subdev.cn/docsMetadata---subdev-cn-docs-057-154.0bb67635aa11ecc72234.js"
         }
       ]
     },
@@ -499,24 +499,24 @@
       "css": [
         {
           "file": "main.836d044100531021daee.css",
-          "hash": "177bfa7097918aa85172",
-          "publicPath": "/main.836d044100531021daee.css"
+          "hash": "c9bb93ea4de93b5c78b0",
+          "publicPath": "/subdev.cn/main.836d044100531021daee.css"
         }
       ],
       "js": [
         {
-          "file": "main.8ba689017ac994fbab78.js",
-          "hash": "177bfa7097918aa85172",
-          "publicPath": "/main.8ba689017ac994fbab78.js"
+          "file": "main.32bd15e7ca21de841852.js",
+          "hash": "c9bb93ea4de93b5c78b0",
+          "publicPath": "/subdev.cn/main.32bd15e7ca21de841852.js"
         }
       ]
     },
     "29": {
       "js": [
         {
-          "file": "metadata---subdev-cn-blog-0-a-8-778.a4f75cf5a4a76473deee.js",
-          "hash": "8ca8eabefa8dddde7a2b",
-          "publicPath": "/metadata---subdev-cn-blog-0-a-8-778.a4f75cf5a4a76473deee.js"
+          "file": "metadata---subdev-cn-blog-0-a-8-778.f35b129c93f6e914f9e4.js",
+          "hash": "a60a714d45e0a8cae332",
+          "publicPath": "/subdev.cn/metadata---subdev-cn-blog-0-a-8-778.f35b129c93f6e914f9e4.js"
         }
       ]
     },
@@ -525,7 +525,7 @@
         {
           "file": "metadata---subdev-cn-blog-tags-docusaurus-9-d-0-a60.b7b0923f2755994ab667.js",
           "hash": "797e9f34c20f47cd8b2d",
-          "publicPath": "/metadata---subdev-cn-blog-tags-docusaurus-9-d-0-a60.b7b0923f2755994ab667.js"
+          "publicPath": "/subdev.cn/metadata---subdev-cn-blog-tags-docusaurus-9-d-0-a60.b7b0923f2755994ab667.js"
         }
       ]
     },
@@ -534,7 +534,7 @@
         {
           "file": "metadata---subdev-cn-blog-tags-facebook-6-ec-afc.3565e594b0f336aa0d40.js",
           "hash": "9ebaeb27859cc1e30dfc",
-          "publicPath": "/metadata---subdev-cn-blog-tags-facebook-6-ec-afc.3565e594b0f336aa0d40.js"
+          "publicPath": "/subdev.cn/metadata---subdev-cn-blog-tags-facebook-6-ec-afc.3565e594b0f336aa0d40.js"
         }
       ]
     },
@@ -543,7 +543,7 @@
         {
           "file": "metadata---subdev-cn-blog-tags-helloc-12-4ea.b5a2e11348a5e1965c45.js",
           "hash": "e3f10a21cae46e656d95",
-          "publicPath": "/metadata---subdev-cn-blog-tags-helloc-12-4ea.b5a2e11348a5e1965c45.js"
+          "publicPath": "/subdev.cn/metadata---subdev-cn-blog-tags-helloc-12-4ea.b5a2e11348a5e1965c45.js"
         }
       ]
     },
@@ -552,7 +552,7 @@
         {
           "file": "metadata---subdev-cn-blog-tags-holae-0-f-35b.df7a894555c785287c7c.js",
           "hash": "d3263bc45284a2fb98a5",
-          "publicPath": "/metadata---subdev-cn-blog-tags-holae-0-f-35b.df7a894555c785287c7c.js"
+          "publicPath": "/subdev.cn/metadata---subdev-cn-blog-tags-holae-0-f-35b.df7a894555c785287c7c.js"
         }
       ]
     },
@@ -561,52 +561,52 @@
         {
           "file": "metadata---subdev-cn-blog-welcome-518-d57.a3f1c47631e8d941019a.js",
           "hash": "0eaf6195050d9a95a8ea",
-          "publicPath": "/metadata---subdev-cn-blog-welcome-518-d57.a3f1c47631e8d941019a.js"
+          "publicPath": "/subdev.cn/metadata---subdev-cn-blog-welcome-518-d57.a3f1c47631e8d941019a.js"
         }
       ]
     },
     "35": {
       "js": [
         {
-          "file": "metadata---subdev-cn-docs-dappchain-add-custom-modulef-81-487.58c908b4aa959eb6e393.js",
-          "hash": "7022b64b7f7c2aa1bebe",
-          "publicPath": "/metadata---subdev-cn-docs-dappchain-add-custom-modulef-81-487.58c908b4aa959eb6e393.js"
+          "file": "metadata---subdev-cn-docs-dappchain-add-custom-modulef-81-487.0e9694d70da20624a7fc.js",
+          "hash": "a151d70fc67c53f8c1da",
+          "publicPath": "/subdev.cn/metadata---subdev-cn-docs-dappchain-add-custom-modulef-81-487.0e9694d70da20624a7fc.js"
         }
       ]
     },
     "36": {
       "js": [
         {
-          "file": "metadata---subdev-cn-docs-dappchain-add-test-9-c-3-a94.1d4bb14c5b180f0faade.js",
-          "hash": "31bb681a7b8b13407a35",
-          "publicPath": "/metadata---subdev-cn-docs-dappchain-add-test-9-c-3-a94.1d4bb14c5b180f0faade.js"
+          "file": "metadata---subdev-cn-docs-dappchain-add-test-9-c-3-a94.5010b256688fe47447d2.js",
+          "hash": "8a4b118ef54b65719d8f",
+          "publicPath": "/subdev.cn/metadata---subdev-cn-docs-dappchain-add-test-9-c-3-a94.5010b256688fe47447d2.js"
         }
       ]
     },
     "37": {
       "js": [
         {
-          "file": "metadata---subdev-cn-docs-dappchain-add-ui-3-fa-009.4936530d415aa7eb5446.js",
-          "hash": "f213d3ac9cf037ba70a1",
-          "publicPath": "/metadata---subdev-cn-docs-dappchain-add-ui-3-fa-009.4936530d415aa7eb5446.js"
+          "file": "metadata---subdev-cn-docs-dappchain-add-ui-3-fa-009.69b98bb2e24b76d5882d.js",
+          "hash": "870a95feda26d903c228",
+          "publicPath": "/subdev.cn/metadata---subdev-cn-docs-dappchain-add-ui-3-fa-009.69b98bb2e24b76d5882d.js"
         }
       ]
     },
     "38": {
       "js": [
         {
-          "file": "metadata---subdev-cn-docs-dappchain-deploy-parachain-3-fd-9e3.fe7a96355d1cee9c8b0b.js",
-          "hash": "199df821c953566ec35f",
-          "publicPath": "/metadata---subdev-cn-docs-dappchain-deploy-parachain-3-fd-9e3.fe7a96355d1cee9c8b0b.js"
+          "file": "metadata---subdev-cn-docs-dappchain-deploy-parachain-3-fd-9e3.2bb512ebb4b1092cc9b5.js",
+          "hash": "ad1323300299dadeb91c",
+          "publicPath": "/subdev.cn/metadata---subdev-cn-docs-dappchain-deploy-parachain-3-fd-9e3.2bb512ebb4b1092cc9b5.js"
         }
       ]
     },
     "39": {
       "js": [
         {
-          "file": "metadata---subdev-cn-docs-dappchain-deploy-parathread-772-b61.c8ca4ba178479b9c65d0.js",
-          "hash": "221b11ffd809cbb5934c",
-          "publicPath": "/metadata---subdev-cn-docs-dappchain-deploy-parathread-772-b61.c8ca4ba178479b9c65d0.js"
+          "file": "metadata---subdev-cn-docs-dappchain-deploy-parathread-772-b61.69e3de462f69e90cf3c9.js",
+          "hash": "689f2d61a4c9764deace",
+          "publicPath": "/subdev.cn/metadata---subdev-cn-docs-dappchain-deploy-parathread-772-b61.69e3de462f69e90cf3c9.js"
         }
       ]
     },
@@ -615,61 +615,61 @@
         {
           "file": "metadata---subdev-cn-docs-dappchain-deploy-standalonedf-5-26c.db4e5b7d0f904eae906f.js",
           "hash": "e2ac7a5a2572e0854ac4",
-          "publicPath": "/metadata---subdev-cn-docs-dappchain-deploy-standalonedf-5-26c.db4e5b7d0f904eae906f.js"
+          "publicPath": "/subdev.cn/metadata---subdev-cn-docs-dappchain-deploy-standalonedf-5-26c.db4e5b7d0f904eae906f.js"
         }
       ]
     },
     "41": {
       "js": [
         {
-          "file": "metadata---subdev-cn-docs-dappchain-install-86-a-780.a90c14fdea24d19d9822.js",
-          "hash": "b751ad4ca8a4ec2ae47b",
-          "publicPath": "/metadata---subdev-cn-docs-dappchain-install-86-a-780.a90c14fdea24d19d9822.js"
+          "file": "metadata---subdev-cn-docs-dappchain-install-86-a-780.f3c5dd5e18f289b9dbed.js",
+          "hash": "7213272ff347634289b4",
+          "publicPath": "/subdev.cn/metadata---subdev-cn-docs-dappchain-install-86-a-780.f3c5dd5e18f289b9dbed.js"
         }
       ]
     },
     "42": {
       "js": [
         {
-          "file": "metadata---subdev-cn-docs-dappchain-setup-local-networke-6-b-cd0.2850717c98f9cfd865c1.js",
-          "hash": "5e6f3f65807ff6221f99",
-          "publicPath": "/metadata---subdev-cn-docs-dappchain-setup-local-networke-6-b-cd0.2850717c98f9cfd865c1.js"
+          "file": "metadata---subdev-cn-docs-dappchain-setup-local-networke-6-b-cd0.8dbf8896c62892e5575a.js",
+          "hash": "abe6fc52f7214707b418",
+          "publicPath": "/subdev.cn/metadata---subdev-cn-docs-dappchain-setup-local-networke-6-b-cd0.8dbf8896c62892e5575a.js"
         }
       ]
     },
     "43": {
       "js": [
         {
-          "file": "metadata---subdev-cn-docs-doc-1-ca-3-aea.2ab02718799f283d4a0f.js",
-          "hash": "c69258d020844313772e",
-          "publicPath": "/metadata---subdev-cn-docs-doc-1-ca-3-aea.2ab02718799f283d4a0f.js"
+          "file": "metadata---subdev-cn-docs-doc-1-ca-3-aea.0b1ea171188228a5beb9.js",
+          "hash": "14c07a96b0ac71c74971",
+          "publicPath": "/subdev.cn/metadata---subdev-cn-docs-doc-1-ca-3-aea.0b1ea171188228a5beb9.js"
         }
       ]
     },
     "44": {
       "js": [
         {
-          "file": "metadata---subdev-cn-docs-how-to-dev-830-aa4.ec578b720570174710e2.js",
-          "hash": "ea33b2b37789f7fd9add",
-          "publicPath": "/metadata---subdev-cn-docs-how-to-dev-830-aa4.ec578b720570174710e2.js"
+          "file": "metadata---subdev-cn-docs-how-to-dev-830-aa4.2936faed9c3d3b4721f0.js",
+          "hash": "ba900ed818574b10da39",
+          "publicPath": "/subdev.cn/metadata---subdev-cn-docs-how-to-dev-830-aa4.2936faed9c3d3b4721f0.js"
         }
       ]
     },
     "45": {
       "js": [
         {
-          "file": "metadata---subdev-cn-docs-learn-resourceec-8-00e.c3c223fd8b66ba08b6d5.js",
-          "hash": "d463b95fa96b642f7fa1",
-          "publicPath": "/metadata---subdev-cn-docs-learn-resourceec-8-00e.c3c223fd8b66ba08b6d5.js"
+          "file": "metadata---subdev-cn-docs-learn-resourceec-8-00e.0edb19fb14de6d8928dd.js",
+          "hash": "40ffcc4c8d3c764362fa",
+          "publicPath": "/subdev.cn/metadata---subdev-cn-docs-learn-resourceec-8-00e.0edb19fb14de6d8928dd.js"
         }
       ]
     },
     "46": {
       "js": [
         {
-          "file": "metadata---subdev-cn-docs-mdx-8-d-6-78c.0cc9a944ff17b17781bb.js",
-          "hash": "6b8612b42da2f76e3a7a",
-          "publicPath": "/metadata---subdev-cn-docs-mdx-8-d-6-78c.0cc9a944ff17b17781bb.js"
+          "file": "metadata---subdev-cn-docs-mdx-8-d-6-78c.5758d77751c6153b427f.js",
+          "hash": "3211f5f4c36b1960fd58",
+          "publicPath": "/subdev.cn/metadata---subdev-cn-docs-mdx-8-d-6-78c.5758d77751c6153b427f.js"
         }
       ]
     },
@@ -678,7 +678,7 @@
         {
           "file": "nextItem---subdev-cn-blog-hello-worldbf-6-b31.efb0b246d85709675a4c.js",
           "hash": "08b9099150029848e662",
-          "publicPath": "/nextItem---subdev-cn-blog-hello-worldbf-6-b31.efb0b246d85709675a4c.js"
+          "publicPath": "/subdev.cn/nextItem---subdev-cn-blog-hello-worldbf-6-b31.efb0b246d85709675a4c.js"
         }
       ]
     },
@@ -687,16 +687,16 @@
         {
           "file": "nextItem---subdev-cn-blog-welcome-967-e8e.68a8e480d65f7d06a6ee.js",
           "hash": "710798f26f03956af50b",
-          "publicPath": "/nextItem---subdev-cn-blog-welcome-967-e8e.68a8e480d65f7d06a6ee.js"
+          "publicPath": "/subdev.cn/nextItem---subdev-cn-blog-welcome-967-e8e.68a8e480d65f7d06a6ee.js"
         }
       ]
     },
     "49": {
       "js": [
         {
-          "file": "runtime~main.827b08b41655fac9b664.js",
-          "hash": "6244895b1b357bf9ed29",
-          "publicPath": "/runtime~main.827b08b41655fac9b664.js"
+          "file": "runtime~main.8c69e4f82d1fcb7872cb.js",
+          "hash": "7b87a56e2608c812144f",
+          "publicPath": "/subdev.cn/runtime~main.8c69e4f82d1fcb7872cb.js"
         }
       ]
     },
@@ -705,7 +705,7 @@
         {
           "file": "tags---subdev-cn-blog-tags-66-c-5a7.02bc572c4533056e2904.js",
           "hash": "e698c1d26cfb9ea8680f",
-          "publicPath": "/tags---subdev-cn-blog-tags-66-c-5a7.02bc572c4533056e2904.js"
+          "publicPath": "/subdev.cn/tags---subdev-cn-blog-tags-66-c-5a7.02bc572c4533056e2904.js"
         }
       ]
     },
@@ -714,7 +714,7 @@
         {
           "file": "51.b54a1f7169c1e8a7b49d.js",
           "hash": "a08d0456955b60631f06",
-          "publicPath": "/51.b54a1f7169c1e8a7b49d.js"
+          "publicPath": "/subdev.cn/51.b54a1f7169c1e8a7b49d.js"
         }
       ]
     }

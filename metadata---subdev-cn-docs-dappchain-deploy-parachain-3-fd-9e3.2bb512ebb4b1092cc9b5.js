@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[38],{159:function(a){a.exports=JSON.parse('{"id":"dappchain/deploy_parachain","title":"\u5e73\u884c\u94fe\u90e8\u7f72","sidebar_label":"\u5e73\u884c\u94fe\u90e8\u7f72","description":"TODO","source":"@site/docs/dappchain/6_deploy_parachain.md","permalink":"/subdev.cn/docs/dappchain/deploy_parachain"}')}}]);
