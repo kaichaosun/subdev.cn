@@ -1,0 +1,722 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "0": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      51,
+      0
+    ],
+    "1": [
+      0,
+      3,
+      4,
+      6,
+      8,
+      1
+    ],
+    "@site/src/pages/index.js": [
+      0,
+      2
+    ],
+    "@theme/BlogListPage": [
+      0,
+      1,
+      3
+    ],
+    "@theme/BlogPostPage": [
+      0,
+      1,
+      4
+    ],
+    "@theme/BlogTagsListPage": [
+      0,
+      5
+    ],
+    "@theme/BlogTagsPostsPage": [
+      0,
+      1,
+      6
+    ],
+    "@theme/DocItem": [
+      7
+    ],
+    "@theme/DocPage": [
+      0,
+      1,
+      8
+    ],
+    "@site/blog/2019-05-29-hello-world.md?truncated=true": [
+      9
+    ],
+    "@site/blog/2019-05-28-hola.md?truncated=true": [
+      10
+    ],
+    "@site/blog/2019-05-29-hello-world.md": [
+      11
+    ],
+    "@site/blog/2019-05-28-hola.md": [
+      12
+    ],
+    "@site/blog/2019-05-30-welcome.md": [
+      13
+    ],
+    "@site/blog/2019-05-30-welcome.md?truncated=true": [
+      14
+    ],
+    "@site/docs/dappchain/3_add_custom_module.md": [
+      15
+    ],
+    "@site/docs/dappchain/4_add_test.md": [
+      16
+    ],
+    "@site/docs/dappchain/5_add_ui.md": [
+      17
+    ],
+    "@site/docs/dappchain/6_deploy_parachain.md": [
+      18
+    ],
+    "@site/docs/dappchain/7_deploy_parathread.md": [
+      19
+    ],
+    "@site/docs/dappchain/8_deploy_standalone.md": [
+      20
+    ],
+    "@site/docs/dappchain/1_install.md": [
+      21
+    ],
+    "@site/docs/dappchain/2_setup_local_network.md": [
+      22
+    ],
+    "@site/docs/doc1.md": [
+      23
+    ],
+    "@site/docs/how_to_dev.md": [
+      24
+    ],
+    "@site/docs/learn_resource.md": [
+      25
+    ],
+    "@site/docs/mdx.md": [
+      26
+    ],
+    "@docusaurus-plugin-content-docs/docs-b5f.json": [
+      27
+    ],
+    "main": [
+      49,
+      28
+    ],
+    "@docusaurus-plugin-content-blog/blog-c06.json": [
+      29
+    ],
+    "@docusaurus-plugin-content-blog/blog-tags-docusaurus-0e0.json": [
+      30
+    ],
+    "@docusaurus-plugin-content-blog/blog-tags-facebook-038.json": [
+      31
+    ],
+    "@docusaurus-plugin-content-blog/blog-tags-hello-039.json": [
+      32
+    ],
+    "@docusaurus-plugin-content-blog/blog-tags-hola-ea2.json": [
+      33
+    ],
+    "@docusaurus-plugin-content-blog/blog-welcome-001.json": [
+      34
+    ],
+    "@docusaurus-plugin-content-docs/docs-dappchain-add-custom-module-b0c.json": [
+      35
+    ],
+    "@docusaurus-plugin-content-docs/docs-dappchain-add-test-edc.json": [
+      36
+    ],
+    "@docusaurus-plugin-content-docs/docs-dappchain-add-ui-7c6.json": [
+      37
+    ],
+    "@docusaurus-plugin-content-docs/docs-dappchain-deploy-parachain-0f2.json": [
+      38
+    ],
+    "@docusaurus-plugin-content-docs/docs-dappchain-deploy-parathread-998.json": [
+      39
+    ],
+    "@docusaurus-plugin-content-docs/docs-dappchain-deploy-standalone-b5b.json": [
+      40
+    ],
+    "@docusaurus-plugin-content-docs/docs-dappchain-install-8d0.json": [
+      41
+    ],
+    "@docusaurus-plugin-content-docs/docs-dappchain-setup-local-network-c96.json": [
+      42
+    ],
+    "@docusaurus-plugin-content-docs/docs-doc-1-6ac.json": [
+      43
+    ],
+    "@docusaurus-plugin-content-docs/docs-how-to-dev-a7b.json": [
+      44
+    ],
+    "@docusaurus-plugin-content-docs/docs-learn-resource-8ab.json": [
+      45
+    ],
+    "@docusaurus-plugin-content-docs/docs-mdx-04f.json": [
+      46
+    ],
+    "@docusaurus-plugin-content-blog/blog-hola-089.json": [
+      47
+    ],
+    "@docusaurus-plugin-content-blog/blog-hello-world-09a.json": [
+      48
+    ],
+    "runtime~main": [
+      28,
+      49
+    ],
+    "@docusaurus-plugin-content-blog/blog-tags-tags-4c2.json": [
+      50
+    ],
+    "@theme/NotFound": [
+      0,
+      51
+    ]
+  },
+  "assets": {
+    "0": {
+      "css": [
+        {
+          "file": "0.beb5263729d2db16c046.css",
+          "hash": "1aef80adf2eb16b8946a",
+          "publicPath": "/0.beb5263729d2db16c046.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "0.f4430d4264618b5b7084.js",
+          "hash": "1aef80adf2eb16b8946a",
+          "publicPath": "/0.f4430d4264618b5b7084.js"
+        }
+      ]
+    },
+    "1": {
+      "css": [
+        {
+          "file": "1.2d0cefca6f8bbc3f601c.css",
+          "hash": "61b3704b9a77cd7dbbc9",
+          "publicPath": "/1.2d0cefca6f8bbc3f601c.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "1.e6b3bb556b317662fc22.js",
+          "hash": "61b3704b9a77cd7dbbc9",
+          "publicPath": "/1.e6b3bb556b317662fc22.js"
+        }
+      ]
+    },
+    "2": {
+      "css": [
+        {
+          "file": "component---site-src-pages-index-jsc-4-f-f99.9f99729bff7f082bd679.css",
+          "hash": "d814626f6869eb349c94",
+          "publicPath": "/component---site-src-pages-index-jsc-4-f-f99.9f99729bff7f082bd679.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "component---site-src-pages-index-jsc-4-f-f99.6ea7f10d27d42f5c20be.js",
+          "hash": "d814626f6869eb349c94",
+          "publicPath": "/component---site-src-pages-index-jsc-4-f-f99.6ea7f10d27d42f5c20be.js"
+        }
+      ]
+    },
+    "3": {
+      "css": [
+        {
+          "file": "component---theme-blog-list-pagea-6-a-7ba.42d18faa279882580cbb.css",
+          "hash": "d0bdc8ed4e782f9c1379",
+          "publicPath": "/component---theme-blog-list-pagea-6-a-7ba.42d18faa279882580cbb.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "component---theme-blog-list-pagea-6-a-7ba.47554e370d7d32c77940.js",
+          "hash": "d0bdc8ed4e782f9c1379",
+          "publicPath": "/component---theme-blog-list-pagea-6-a-7ba.47554e370d7d32c77940.js"
+        }
+      ]
+    },
+    "4": {
+      "css": [
+        {
+          "file": "component---theme-blog-post-pageccc-cab.42d18faa279882580cbb.css",
+          "hash": "4ff8e7282068121aca50",
+          "publicPath": "/component---theme-blog-post-pageccc-cab.42d18faa279882580cbb.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "component---theme-blog-post-pageccc-cab.6004287a0f3637587519.js",
+          "hash": "4ff8e7282068121aca50",
+          "publicPath": "/component---theme-blog-post-pageccc-cab.6004287a0f3637587519.js"
+        }
+      ]
+    },
+    "5": {
+      "js": [
+        {
+          "file": "component---theme-blog-tags-list-page-01-a-d0b.85f30dd2cf62990dca68.js",
+          "hash": "74a4999e242bf0343c68",
+          "publicPath": "/component---theme-blog-tags-list-page-01-a-d0b.85f30dd2cf62990dca68.js"
+        }
+      ]
+    },
+    "6": {
+      "css": [
+        {
+          "file": "component---theme-blog-tags-posts-page-687-b6c.42d18faa279882580cbb.css",
+          "hash": "4c5f56b07cb9d81978f6",
+          "publicPath": "/component---theme-blog-tags-posts-page-687-b6c.42d18faa279882580cbb.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "component---theme-blog-tags-posts-page-687-b6c.483569ca8a19571e10ef.js",
+          "hash": "4c5f56b07cb9d81978f6",
+          "publicPath": "/component---theme-blog-tags-posts-page-687-b6c.483569ca8a19571e10ef.js"
+        }
+      ]
+    },
+    "7": {
+      "css": [
+        {
+          "file": "component---theme-doc-item-178-a40.de2648345892298aff25.css",
+          "hash": "508933b41056a292efc2",
+          "publicPath": "/component---theme-doc-item-178-a40.de2648345892298aff25.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "component---theme-doc-item-178-a40.fceb1295438a0048b4c0.js",
+          "hash": "508933b41056a292efc2",
+          "publicPath": "/component---theme-doc-item-178-a40.fceb1295438a0048b4c0.js"
+        }
+      ]
+    },
+    "8": {
+      "css": [
+        {
+          "file": "component---theme-doc-page-1-be-9be.a7dc664af81736e8f518.css",
+          "hash": "926804e3dbf0d3f0acbc",
+          "publicPath": "/component---theme-doc-page-1-be-9be.a7dc664af81736e8f518.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "component---theme-doc-page-1-be-9be.6d8b707092b19487ef62.js",
+          "hash": "926804e3dbf0d3f0acbc",
+          "publicPath": "/component---theme-doc-page-1-be-9be.6d8b707092b19487ef62.js"
+        }
+      ]
+    },
+    "9": {
+      "js": [
+        {
+          "file": "content---blog-357-22b.b65f002bcc58bf386830.js",
+          "hash": "f62c7441da1b41a3ce1d",
+          "publicPath": "/content---blog-357-22b.b65f002bcc58bf386830.js"
+        }
+      ]
+    },
+    "10": {
+      "js": [
+        {
+          "file": "content---blog-8-e-9-35c.362f5ea1048746f475a4.js",
+          "hash": "f81f6274383c617de53e",
+          "publicPath": "/content---blog-8-e-9-35c.362f5ea1048746f475a4.js"
+        }
+      ]
+    },
+    "11": {
+      "js": [
+        {
+          "file": "content---blog-hello-worldd-61-086.dc48ef30cc8c6cf7bf7b.js",
+          "hash": "893f56ea788fbe224d73",
+          "publicPath": "/content---blog-hello-worldd-61-086.dc48ef30cc8c6cf7bf7b.js"
+        }
+      ]
+    },
+    "12": {
+      "js": [
+        {
+          "file": "content---blog-holabdd-150.e4eebd99188ff045da21.js",
+          "hash": "cff4927f3a888c224a44",
+          "publicPath": "/content---blog-holabdd-150.e4eebd99188ff045da21.js"
+        }
+      ]
+    },
+    "13": {
+      "js": [
+        {
+          "file": "content---blog-welcome-286-e55.927441d1691f983a7761.js",
+          "hash": "92df3ed8bca33705a62e",
+          "publicPath": "/content---blog-welcome-286-e55.927441d1691f983a7761.js"
+        }
+      ]
+    },
+    "14": {
+      "js": [
+        {
+          "file": "content---blogaf-1-856.31bc08b5166a988ea48b.js",
+          "hash": "34f9d90b15bb1280486a",
+          "publicPath": "/content---blogaf-1-856.31bc08b5166a988ea48b.js"
+        }
+      ]
+    },
+    "15": {
+      "js": [
+        {
+          "file": "content---docs-dappchain-add-custom-module-97-c-a8e.361725e172fb2acb3612.js",
+          "hash": "0741f3a46c206a7e5092",
+          "publicPath": "/content---docs-dappchain-add-custom-module-97-c-a8e.361725e172fb2acb3612.js"
+        }
+      ]
+    },
+    "16": {
+      "js": [
+        {
+          "file": "content---docs-dappchain-add-test-8-f-2-61d.76285f88b4d09f8b1994.js",
+          "hash": "e235d2b0087b435ba0f0",
+          "publicPath": "/content---docs-dappchain-add-test-8-f-2-61d.76285f88b4d09f8b1994.js"
+        }
+      ]
+    },
+    "17": {
+      "js": [
+        {
+          "file": "content---docs-dappchain-add-ui-5-aa-2ba.0e8d75bcc4d804d856f6.js",
+          "hash": "8715d6d6e4e1b04f4dd6",
+          "publicPath": "/content---docs-dappchain-add-ui-5-aa-2ba.0e8d75bcc4d804d856f6.js"
+        }
+      ]
+    },
+    "18": {
+      "js": [
+        {
+          "file": "content---docs-dappchain-deploy-parachainf-8-f-356.1690a17eec19e85dd7b7.js",
+          "hash": "d8dfaccd05d5bfbd81b6",
+          "publicPath": "/content---docs-dappchain-deploy-parachainf-8-f-356.1690a17eec19e85dd7b7.js"
+        }
+      ]
+    },
+    "19": {
+      "js": [
+        {
+          "file": "content---docs-dappchain-deploy-parathread-801-a53.aaf3e0ae8d75f007de2e.js",
+          "hash": "fb65b4e5ae8685949dbe",
+          "publicPath": "/content---docs-dappchain-deploy-parathread-801-a53.aaf3e0ae8d75f007de2e.js"
+        }
+      ]
+    },
+    "20": {
+      "js": [
+        {
+          "file": "content---docs-dappchain-deploy-standalonea-8-c-6cd.5c0ee6d511787b94ba46.js",
+          "hash": "871bdc2485b818ea5332",
+          "publicPath": "/content---docs-dappchain-deploy-standalonea-8-c-6cd.5c0ee6d511787b94ba46.js"
+        }
+      ]
+    },
+    "21": {
+      "js": [
+        {
+          "file": "content---docs-dappchain-install-5-f-8-0ef.c9f0bcaaf5fa2aaace42.js",
+          "hash": "8bb365f150051c5d66c2",
+          "publicPath": "/content---docs-dappchain-install-5-f-8-0ef.c9f0bcaaf5fa2aaace42.js"
+        }
+      ]
+    },
+    "22": {
+      "js": [
+        {
+          "file": "content---docs-dappchain-setup-local-networkab-6-25a.b14d25f11f12872830cb.js",
+          "hash": "682f512968a46d29329d",
+          "publicPath": "/content---docs-dappchain-setup-local-networkab-6-25a.b14d25f11f12872830cb.js"
+        }
+      ]
+    },
+    "23": {
+      "js": [
+        {
+          "file": "content---docs-doc-1-b-2-f-e80.9e2c7c9930ae06774202.js",
+          "hash": "65fb14e3b05652d038af",
+          "publicPath": "/content---docs-doc-1-b-2-f-e80.9e2c7c9930ae06774202.js"
+        }
+      ]
+    },
+    "24": {
+      "js": [
+        {
+          "file": "content---docs-how-to-dev-140-b59.7bdac468dcf819907fb6.js",
+          "hash": "54ce660478b0b4e9f591",
+          "publicPath": "/content---docs-how-to-dev-140-b59.7bdac468dcf819907fb6.js"
+        }
+      ]
+    },
+    "25": {
+      "js": [
+        {
+          "file": "content---docs-learn-resource-2-c-1-161.44b29098938f137dfb77.js",
+          "hash": "b18f006ca85037dd1e61",
+          "publicPath": "/content---docs-learn-resource-2-c-1-161.44b29098938f137dfb77.js"
+        }
+      ]
+    },
+    "26": {
+      "js": [
+        {
+          "file": "content---docs-mdxce-3-7d1.9fa1ad2e3dc2a4e32ed5.js",
+          "hash": "93fbe93614806303507d",
+          "publicPath": "/content---docs-mdxce-3-7d1.9fa1ad2e3dc2a4e32ed5.js"
+        }
+      ]
+    },
+    "27": {
+      "js": [
+        {
+          "file": "docsMetadata---docs-1-da-721.5664bb04edf074427c9f.js",
+          "hash": "9f8f0b2e1bed210798af",
+          "publicPath": "/docsMetadata---docs-1-da-721.5664bb04edf074427c9f.js"
+        }
+      ]
+    },
+    "28": {
+      "css": [
+        {
+          "file": "main.836d044100531021daee.css",
+          "hash": "368d02ca5e5a19c079cf",
+          "publicPath": "/main.836d044100531021daee.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "main.8c977ee167d42aca1100.js",
+          "hash": "368d02ca5e5a19c079cf",
+          "publicPath": "/main.8c977ee167d42aca1100.js"
+        }
+      ]
+    },
+    "29": {
+      "js": [
+        {
+          "file": "metadata---blog-1-a-9-d63.2cf567111b66b77afbfc.js",
+          "hash": "922f615a77ab93edb5b5",
+          "publicPath": "/metadata---blog-1-a-9-d63.2cf567111b66b77afbfc.js"
+        }
+      ]
+    },
+    "30": {
+      "js": [
+        {
+          "file": "metadata---blog-tags-docusaurus-9-b-4-91a.60c8f041b704747d04cd.js",
+          "hash": "bc17d1919c5dfc9e4643",
+          "publicPath": "/metadata---blog-tags-docusaurus-9-b-4-91a.60c8f041b704747d04cd.js"
+        }
+      ]
+    },
+    "31": {
+      "js": [
+        {
+          "file": "metadata---blog-tags-facebook-66-c-9b2.63818dab083d105576d9.js",
+          "hash": "c273a2677bd780fd39c7",
+          "publicPath": "/metadata---blog-tags-facebook-66-c-9b2.63818dab083d105576d9.js"
+        }
+      ]
+    },
+    "32": {
+      "js": [
+        {
+          "file": "metadata---blog-tags-hellof-1-a-1d2.32c33401004163fe9b82.js",
+          "hash": "c63506067a9e6ab3005c",
+          "publicPath": "/metadata---blog-tags-hellof-1-a-1d2.32c33401004163fe9b82.js"
+        }
+      ]
+    },
+    "33": {
+      "js": [
+        {
+          "file": "metadata---blog-tags-hola-62-b-1c5.9b7124144b97a67f4edf.js",
+          "hash": "34dd0ef94da1e4aac046",
+          "publicPath": "/metadata---blog-tags-hola-62-b-1c5.9b7124144b97a67f4edf.js"
+        }
+      ]
+    },
+    "34": {
+      "js": [
+        {
+          "file": "metadata---blog-welcome-85-b-230.57925676b05c99fff763.js",
+          "hash": "e06ac723230bc17336e2",
+          "publicPath": "/metadata---blog-welcome-85-b-230.57925676b05c99fff763.js"
+        }
+      ]
+    },
+    "35": {
+      "js": [
+        {
+          "file": "metadata---docs-dappchain-add-custom-moduleec-1-73a.a7a36dbf0aeaf14900ee.js",
+          "hash": "3e631b4b15b2ec6ef0c7",
+          "publicPath": "/metadata---docs-dappchain-add-custom-moduleec-1-73a.a7a36dbf0aeaf14900ee.js"
+        }
+      ]
+    },
+    "36": {
+      "js": [
+        {
+          "file": "metadata---docs-dappchain-add-test-033-2cf.90d400136f294e8c858c.js",
+          "hash": "d3db310ce96c7f45ad1f",
+          "publicPath": "/metadata---docs-dappchain-add-test-033-2cf.90d400136f294e8c858c.js"
+        }
+      ]
+    },
+    "37": {
+      "js": [
+        {
+          "file": "metadata---docs-dappchain-add-ui-302-fff.4b16ae9783e7e45d1c2b.js",
+          "hash": "73323ec7fc8824851a05",
+          "publicPath": "/metadata---docs-dappchain-add-ui-302-fff.4b16ae9783e7e45d1c2b.js"
+        }
+      ]
+    },
+    "38": {
+      "js": [
+        {
+          "file": "metadata---docs-dappchain-deploy-parachain-289-f9f.ea8a9fc292cd25c9393a.js",
+          "hash": "ed1c24069d7a68801ecb",
+          "publicPath": "/metadata---docs-dappchain-deploy-parachain-289-f9f.ea8a9fc292cd25c9393a.js"
+        }
+      ]
+    },
+    "39": {
+      "js": [
+        {
+          "file": "metadata---docs-dappchain-deploy-parathreade-66-45c.23b3d6bf1fcbb52e0f5f.js",
+          "hash": "2435478d717b2188c640",
+          "publicPath": "/metadata---docs-dappchain-deploy-parathreade-66-45c.23b3d6bf1fcbb52e0f5f.js"
+        }
+      ]
+    },
+    "40": {
+      "js": [
+        {
+          "file": "metadata---docs-dappchain-deploy-standaloneafb-dc1.6824b1d0cd104278ac7a.js",
+          "hash": "872498d91d3f8c165db6",
+          "publicPath": "/metadata---docs-dappchain-deploy-standaloneafb-dc1.6824b1d0cd104278ac7a.js"
+        }
+      ]
+    },
+    "41": {
+      "js": [
+        {
+          "file": "metadata---docs-dappchain-install-3-c-7-2f4.3ec26d3a7b66f7023980.js",
+          "hash": "2fa32032564833289435",
+          "publicPath": "/metadata---docs-dappchain-install-3-c-7-2f4.3ec26d3a7b66f7023980.js"
+        }
+      ]
+    },
+    "42": {
+      "js": [
+        {
+          "file": "metadata---docs-dappchain-setup-local-network-7-ef-9f2.13f269c8a27ce6f2ab27.js",
+          "hash": "1750fcd7d4bf155a537e",
+          "publicPath": "/metadata---docs-dappchain-setup-local-network-7-ef-9f2.13f269c8a27ce6f2ab27.js"
+        }
+      ]
+    },
+    "43": {
+      "js": [
+        {
+          "file": "metadata---docs-doc-1456-c0d.ff09827b7d34734916cd.js",
+          "hash": "899025b80405f3a3baca",
+          "publicPath": "/metadata---docs-doc-1456-c0d.ff09827b7d34734916cd.js"
+        }
+      ]
+    },
+    "44": {
+      "js": [
+        {
+          "file": "metadata---docs-how-to-dev-433-5a5.3244e04c75921645ebc2.js",
+          "hash": "53444dc1fa3f7aabcc3e",
+          "publicPath": "/metadata---docs-how-to-dev-433-5a5.3244e04c75921645ebc2.js"
+        }
+      ]
+    },
+    "45": {
+      "js": [
+        {
+          "file": "metadata---docs-learn-resourcee-73-397.1f74e57bd7a48b0f9e8e.js",
+          "hash": "b73c360fc9da4cae43cb",
+          "publicPath": "/metadata---docs-learn-resourcee-73-397.1f74e57bd7a48b0f9e8e.js"
+        }
+      ]
+    },
+    "46": {
+      "js": [
+        {
+          "file": "metadata---docs-mdx-514-01a.6c27909c67352aceceae.js",
+          "hash": "7a5931776b8ae9cc47a6",
+          "publicPath": "/metadata---docs-mdx-514-01a.6c27909c67352aceceae.js"
+        }
+      ]
+    },
+    "47": {
+      "js": [
+        {
+          "file": "nextItem---blog-hello-world-15-c-dad.9af350c3f6324c6d9b99.js",
+          "hash": "54b1331be8f488d7e7f6",
+          "publicPath": "/nextItem---blog-hello-world-15-c-dad.9af350c3f6324c6d9b99.js"
+        }
+      ]
+    },
+    "48": {
+      "js": [
+        {
+          "file": "nextItem---blog-welcome-253-55b.33beab24edab36291506.js",
+          "hash": "c0cb9faf45896e6dd2b4",
+          "publicPath": "/nextItem---blog-welcome-253-55b.33beab24edab36291506.js"
+        }
+      ]
+    },
+    "49": {
+      "js": [
+        {
+          "file": "runtime~main.c49b9dfc4a94ed58175c.js",
+          "hash": "9f4d324ea816cf74acc4",
+          "publicPath": "/runtime~main.c49b9dfc4a94ed58175c.js"
+        }
+      ]
+    },
+    "50": {
+      "js": [
+        {
+          "file": "tags---blog-tagsba-6-d64.73b83d6568748196dfc4.js",
+          "hash": "e8ff6c3d4267d769a6f7",
+          "publicPath": "/tags---blog-tagsba-6-d64.73b83d6568748196dfc4.js"
+        }
+      ]
+    },
+    "51": {
+      "js": [
+        {
+          "file": "51.b54a1f7169c1e8a7b49d.js",
+          "hash": "a08d0456955b60631f06",
+          "publicPath": "/51.b54a1f7169c1e8a7b49d.js"
+        }
+      ]
+    }
+  }
+}
