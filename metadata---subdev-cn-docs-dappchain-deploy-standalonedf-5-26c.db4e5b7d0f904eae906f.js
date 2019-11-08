@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[40],{165:function(a){a.exports=JSON.parse('{"id":"dappchain/deploy_standalone","title":"\u81ea\u6cbb\u94fe\u90e8\u7f72","sidebar_label":"\u81ea\u6cbb\u94fe\u90e8\u7f72","description":"TODO","source":"@site/docs/dappchain/8_deploy_standalone.md","permalink":"/subdev.cn/docs/dappchain/deploy_standalone"}')}}]);
