@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[33],{163:function(a){a.exports=JSON.parse('{"id":"dappchain/deploy_parathread","title":"\u5e73\u884c\u7ebf\u7a0b\u90e8\u7f72","sidebar_label":"\u5e73\u884c\u7ebf\u7a0b\u90e8\u7f72","description":"TODO","source":"@site/docs/dappchain/7_deploy_parathread.md","permalink":"/docs/dappchain/deploy_parathread"}')}}]);
