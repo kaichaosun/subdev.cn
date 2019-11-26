@@ -15,7 +15,7 @@ jobs:
       - add_ssh_keys:
           fingerprints:
             # This key added by @kaichao
-            - "12:00:9f:21:a5:df:e0:fc:67:8d:13:37:16:8f:67:f1"
+            - "f4:85:1a:b3:71:89:5c:34:f7:16:84:85:5a:70:3c:f8"
       - checkout
       - run:
           name: Deploying to GitHub Pages
