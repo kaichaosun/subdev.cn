@@ -1,8 +1,15 @@
 /**
- * Copyright (c) 2017-present, Facebook, Inc.
+ * Copyright 2019 SubDev.cn
  *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
  */
 
 import React from 'react';
@@ -15,32 +22,31 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Easy to Use</>,
+    title: <>专注于技术</>,
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Substrate作为一个开源、通用的区块链开发框架，拥有无限潜力。
+        让我们一同学习Substrate区块链开发，深入研究底层架构，用技术影响世界。
       </>
     ),
   },
   {
-    title: <>Focus on What Matters</>,
+    title: <>为开发者服务</>,
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        区块链技术的价值在于应用，广大的开发者是发掘应用场景、提升用户体验的基石。
+        通过高质量的内容服务开发者，共同成长。
       </>
     ),
   },
   {
-    title: <>Powered by React</>,
+    title: <>开源文化</>,
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        区块链的生命力在于开放共享。我们支持无国界的开源运动，尊重原创，积极贡献Substrate生态相关的代码、文档和活动。
       </>
     ),
   },
@@ -66,8 +72,8 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`${siteConfig.title}`}
+      description="Substrate开发者社区，是由国内的区块链爱好者自发组建的，旨在帮助开发者快速学习和上手Substrate开发框架。">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
@@ -79,7 +85,7 @@ function Home() {
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/doc1')}>
-              Get Started
+              开始学习
             </Link>
           </div>
         </div>

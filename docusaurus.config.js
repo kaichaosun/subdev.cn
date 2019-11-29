@@ -1,12 +1,19 @@
 /**
- * Copyright (c) 2017-present, Facebook, Inc.
+ * Copyright 2019 SubDev.cn
  *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
  */
 
 module.exports = {
-  title: 'Substrate 开发者社区',
+  title: 'Substrate开发者社区',
   tagline: '助力区块链开发者',
   url: 'https://subdev.cn',
   baseUrl: '/',
@@ -17,12 +24,13 @@ module.exports = {
     navbar: {
       title: '主页',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'SubDev',
+        src: 'img/substrate-logo.png',
       },
       links: [
         {to: 'docs/learn_resource', label: '学习资料', position: 'left'},
-        {to: 'https://substrater.org', label: '论坛', position: 'left'},
+        {href: 'https://substrate.dev', label: '开发者中心', position: 'left'},
+        {href: 'https://substrater.org', label: '论坛', position: 'left'},
         {to: 'blog', label: '博客', position: 'left'},
         {
           href: 'https://github.com/substrater/subdev.cn',
@@ -35,38 +43,42 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: '文档',
           items: [
             {
-              label: 'Docs',
-              to: 'docs/doc1',
+              label: '学习资料',
+              to: 'docs/learn_resource',
+            },
+            {
+              label: '开发者中心',
+              href: 'https://substrate.dev',
             },
           ],
         },
         {
-          title: 'Community',
+          title: '社区',
           items: [
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
+              label: '论坛',
+              href: 'https://substrater.org',
+            }
           ],
         },
         {
-          title: 'Social',
+          title: '社交',
           items: [
             {
-              label: 'Blog',
+              label: '博客',
               to: 'blog',
             },
           ],
         },
       ],
-      logo: {
-        alt: 'Facebook Open Source Logo',
-        src: 'https://docusaurus.io/img/oss_logo.png',
-      },
-      copyright: `Copyright © ${new Date().getFullYear()} SubDev`,
+      // logo: {
+      //   alt: 'Facebook Open Source Logo',
+      //   src: 'https://docusaurus.io/img/oss_logo.png',
+      // },
+      copyright: `Copyright © ${new Date().getFullYear()} SubDev.cn`,
     },
   },
   presets: [
