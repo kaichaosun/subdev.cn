@@ -78,7 +78,7 @@ module.exports = {
       //   alt: 'Facebook Open Source Logo',
       //   src: 'https://docusaurus.io/img/oss_logo.png',
       // },
-      copyright: `Copyright © ${new Date().getFullYear()} SubDev.cn`,
+      copyright: `Copyright © ${new Date().getFullYear()} subdev.cn | 陕ICP备19025653号`,
     },
   },
   presets: [
