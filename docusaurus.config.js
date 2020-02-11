@@ -29,12 +29,12 @@ module.exports = {
       },
       links: [
         {to: 'docs/learn_resource', label: '学习资料', position: 'left'},
-        {href: 'https://substrate.dev', label: '开发者中心', position: 'left'},
-        {href: 'https://substrater.org', label: '论坛', position: 'left'},
+        {href: 'https://substrate.dev', label: '开发者中心', position: 'right'},
+        {href: 'https://substrater.org', label: '论坛', position: 'right'},
         {to: 'blog', label: '博客', position: 'left'},
         {
-          href: 'https://github.com/substrater/subdev.cn',
-          label: 'GitHub',
+          href: 'https://github.com/ParityAsia/subdev.cn',
+          label: 'Github',
           position: 'right',
         },
       ],

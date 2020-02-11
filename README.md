@@ -1,4 +1,15 @@
-# Website
+# Substrate Developer Community
+
+See what we provide in the [website](https://subdev.cn):
+- [x] Learning docs
+- [x] blog posts
+- [ ] Video courses
+
+## Contribute
+
+Make PR for your content, it will be deployed automatically after it's merged.
+
+## Developement
 
 This website is built using Docusaurus 2, a modern static website generator.
 
