@@ -21,6 +21,11 @@ module.exports = {
   organizationName: 'substrater', // Usually your GitHub org/user name.
   projectName: 'SubDev', // Usually your repo name.
   themeConfig: {
+    gtag: {
+      trackingID: 'UA-128168145-2',
+      // Optional fields.
+      // anonymizeIP: true, // Should IPs be anonymized?
+    },
     navbar: {
       title: '主页',
       logo: {
