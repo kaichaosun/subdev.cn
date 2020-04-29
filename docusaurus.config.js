@@ -29,9 +29,13 @@ module.exports = {
       },
       links: [
         {to: 'docs/learn_resource', label: '学习资料', position: 'left'},
-        {href: 'https://substrate.dev', label: '开发者中心', position: 'right'},
-        {href: 'https://substrater.org', label: '论坛', position: 'right'},
+        {to: 'docs/course', label: '课程', position: 'left'},
+        {to: 'docs/live_stream', label: 'Web3.0直播', position: 'left'},
         {to: 'blog', label: '博客', position: 'left'},
+        {href: 'https://substrate.dev', label: '开发者中心', position: 'right'},
+        {href: 'https://zhuanlan.zhihu.com/substrate', label: '专栏', position: 'right'},
+        {href: 'https://space.bilibili.com/67358318', label: '视频', position: 'right'},
+        {href: 'https://substrater.org', label: '论坛', position: 'right'},
         {
           href: 'https://github.com/ParityAsia/subdev.cn',
           label: 'Github',

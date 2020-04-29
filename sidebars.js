@@ -14,7 +14,11 @@
 
 module.exports = {
   docs: {
-    如何学习: ['learn_resource'],
+    如何学习: [
+      'learn_resource',
+      'course',
+      'live_stream'
+    ],
     区块链应用开发: [
       'dappchain/install',
       'dappchain/setup_local_network',
