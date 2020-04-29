@@ -27,7 +27,7 @@ const features = [
     description: (
       <>
         Substrate作为一个开源、通用的区块链开发框架，拥有无限潜力。
-        让我们一同学习Substrate区块链开发，深入研究底层架构，用技术影响世界。
+        加入我们一同学习Substrate区块链开发，深入研究底层架构，用技术影响世界。
       </>
     ),
   },

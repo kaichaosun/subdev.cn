@@ -13,7 +13,7 @@
  */
 
 module.exports = {
-  title: 'Substrate开发者社区',
+  title: 'Substrate开发框架',
   tagline: '助力区块链开发者',
   url: 'https://subdev.cn',
   baseUrl: '/',
