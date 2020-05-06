@@ -8,7 +8,7 @@ sidebar_label: 资料列表
 [https://substrate.dev](https://substrate.dev)
 
 包含了：
-* :star: [Substrate概念文档](https://substrate.dev/en/docs)
+* :star: [Substrate概念文档](https://substrate.dev/docs/en/)
 * :star: [Substrate的Rust代码文档](https://substrate.dev/rustdocs)
 * :star: [Substrate Recipes代码](https://substrate.dev/recipes/)
 * :star: [Substrate 教程](https://substrate.dev/en/tutorials)
