@@ -3,7 +3,7 @@
 See what we provide in the [website](https://subdev.cn):
 - [x] Learning docs
 - [x] blog posts
-- [ ] Video courses
+- [x] Video courses
 
 ## Contribute
 
