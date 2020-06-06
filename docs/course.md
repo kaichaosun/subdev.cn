@@ -54,3 +54,6 @@ sidebar_label: 课程和直播
 * [Consensus: BABE + Grandpa](https://www.bilibili.com/video/BV1bz411z73k)
 * [Substrate：过去，现在和未来](https://www.bilibili.com/video/BV1hz4y1d7Km/)
 * [教学：用 Substrate 创建链上存证（Proof of Existence）](https://www.bilibili.com/video/BV1az411q7DF/)
+* [Positioning of Polkadot and plan of W3F](https://www.bilibili.com/video/BV1Sk4y1B7bB/)
+* [Polkadot Slot Auction](https://www.bilibili.com/video/BV1Qi4y1s7TD/)
+* [Rust入门知识-1](https://www.bilibili.com/video/BV1rQ4y1P716/)
