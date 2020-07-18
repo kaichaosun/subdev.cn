@@ -24,10 +24,10 @@ Riot:
 ## 中文资料
 
 * :star: 官方中文文档: [substrate.dev](https://substrate.dev/zh-CN/)
-* :star: Parity博客: [parity.link/zhihu](https://parity.link/zhihu)
-* :star: Parity视频: [parity.link/bilibili](https://parity.link/bilibili)
+* :star: Parity中文技术文章: [parity.link/zhihu](https://parity.link/zhihu)
+* :star: Parity中文视频: [parity.link/bilibili](https://parity.link/bilibili)
 * :star: Parity技术支持 QQ群: 713271590
-* 国内项目的公众号
+* 国内社区的公众号
   * PolkaWorld
   * Polkabase
   * Substrate开发者社区
@@ -36,15 +36,9 @@ Riot:
   * China Substrate Dev Community (管理员：daogangtang)
   * PolkaWorld Substrate技术交流群 (管理员：HashBangs)
   * 一块+Substrate开发实战 (管理员：connie136789)
-  * 波卡技术区 (管理员：yiheweixin2014)
-* 社区博客: 
+* 社区开发者的技术博客: 
   * [金狗喵喵喵的区块链研习](https://zhuanlan.zhihu.com/c_74315572)
   * [深入浅出Substrate](https://zhuanlan.zhihu.com/c_1145328581075918848)
-* 国内项目
-  * ChainX
-  * Crust
-  * Darwinia Network
-  * Phala Network
 
 ## 代码仓库
 
