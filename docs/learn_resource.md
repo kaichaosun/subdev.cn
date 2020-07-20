@@ -14,6 +14,10 @@ sidebar_label: 资料列表
 * :star: [Substrate 教程](https://substrate.dev/en/tutorials)
 * :star: [Substrate线上学习讨论会](https://substrate.dev/en/seminar)
 
+## 官方视频
+* [Parity Technologies Youtube channel](https://www.youtube.com/c/ParityTech)
+* [Polkadot Network Youtube channel](https://www.youtube.com/channel/UCB7PbjuZLEba_znc7mEGNgw)
+
 ## 官方技术支持
 Riot:
 * [Substrate Technical (Public)](https://matrix.to/#/!HzySYSaIhtyWrwiwEV:matrix.org?via=matrix.parity.io&via=matrix.org&via=web3.foundation)
@@ -26,13 +30,13 @@ Riot:
 * :star: 官方中文文档: [substrate.dev](https://substrate.dev/zh-CN/)
 * :star: Parity中文技术文章: [parity.link/zhihu](https://parity.link/zhihu)
 * :star: Parity中文视频: [parity.link/bilibili](https://parity.link/bilibili)
-* :star: Parity技术支持 QQ群: 713271590
+* :star: 中文Substrate技术交流 Riot 群 [China Substrate Dev](https://matrix.to/#/!trdlqNGrCsZpYUZoXa:matrix.parity.io?via=matrix.parity.io&via=matrix.org&via=web3.foundation)
 * 国内社区的公众号
   * PolkaWorld
   * Polkabase
   * Substrate开发者社区
   * 一块Plus社区
-* 国内交流群
+* 社区微信交流群
   * China Substrate Dev Community (管理员：daogangtang)
   * PolkaWorld Substrate技术交流群 (管理员：HashBangs)
   * 一块+Substrate开发实战 (管理员：connie136789)
