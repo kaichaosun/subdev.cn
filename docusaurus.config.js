@@ -26,7 +26,7 @@ module.exports = {
       // Optional fields.
       // anonymizeIP: true, // Should IPs be anonymized?
     },
-    navbar: {
+    items: {
       title: '主页',
       logo: {
         alt: 'SubDev',
