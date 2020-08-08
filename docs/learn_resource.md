@@ -5,32 +5,40 @@ sidebar_label: 资料列表
 ---
 
 ## 官方文档
-[https://substrate.dev](https://substrate.dev)
+[https://substrate.dev](https://substrate.dev?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
 
 包含了：
-* :star: [Substrate概念文档](https://substrate.dev/docs/en/)
-* :star: [Substrate的Rust代码文档](https://substrate.dev/rustdocs)
-* :star: [Substrate Recipes代码](https://substrate.dev/recipes/)
-* :star: [Substrate 教程](https://substrate.dev/en/tutorials)
-* :star: [Substrate线上学习讨论会](https://substrate.dev/en/seminar)
-
-## 官方视频
-* [Parity Technologies Youtube channel](https://www.youtube.com/c/ParityTech)
-* [Polkadot Network Youtube channel](https://www.youtube.com/channel/UCB7PbjuZLEba_znc7mEGNgw)
+* :star: [Substrate概念文档](https://substrate.dev/docs/en/?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
+* :star: [Substrate的Rust代码文档](https://substrate.dev/rustdocs?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
+* :star: [Substrate Recipes代码](https://substrate.dev/recipes/?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
+* :star: [Substrate 教程](https://substrate.dev/en/tutorials?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
+* :star: [Substrate线上学习讨论会](https://substrate.dev/en/seminar?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
 
 ## 官方技术支持
-Riot:
+
 * [Substrate Technical (Public)](https://matrix.to/#/!HzySYSaIhtyWrwiwEV:matrix.org?via=matrix.parity.io&via=matrix.org&via=web3.foundation)
 * [Smart Contracts & Parity ink!](https://matrix.to/#/!tYUCYdSvSYPMjWNDDD:matrix.parity.io?via=matrix.parity.io&via=matrix.org&via=web3.foundation)
 * [Kusama Validator Lounge](https://matrix.to/#/!LhjZccBOqFNYKLdmbb:polkadot.builders?via=web3.foundation&via=matrix.org&via=matrix.parity.io)
+* [Polkadot Validator Lounge](https://matrix.to/#/!NZrbtteFeqYKCUGQtr:matrix.parity.io?via=matrix.parity.io&via=matrix.org&via=web3.foundation)
 * [Polkadot Watercooler](https://matrix.to/#/!fOOzymDEHiIIUtmlBE:matrix.org?via=matrix.org&via=matrix.parity.io&via=web3.foundation)
+* [Polkadot / Substrate Release Notes](https://matrix.to/#/!NTogofoetwjbTwOoPi:matrix.parity.io?via=matrix.parity.io&via=web3.foundation)
+* [Polkadot Announcements](https://matrix.to/#/!UqHPWiCBGZWxrmYBkF:matrix.parity.io?via=matrix.parity.io&via=matrix.org&via=web3.foundation)
+
+## 官方中文技术支持
+
+* :star: 技术交流群 [Substrate 技术中文](https://matrix.to/#/!trdlqNGrCsZpYUZoXa:matrix.parity.io?via=matrix.parity.io&via=matrix.org&via=web3.foundation)
+* :star: 官方中文文档: [substrate.dev](https://substrate.dev/zh-CN/?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
+* :star: Parity技术文章: [parity.link/zhihu](https://parity.link/zhihu)
+* :star: Parity中文视频: [parity.link/bilibili](https://parity.link/bilibili)
+
+## 官方视频
+
+* [Parity Technologies Youtube channel](https://www.youtube.com/c/ParityTech)
+* [Polkadot Network Youtube channel](https://www.youtube.com/channel/UCB7PbjuZLEba_znc7mEGNgw)
+
 
 ## 中文资料
 
-* :star: 官方中文文档: [substrate.dev](https://substrate.dev/zh-CN/)
-* :star: Parity中文技术文章: [parity.link/zhihu](https://parity.link/zhihu)
-* :star: Parity中文视频: [parity.link/bilibili](https://parity.link/bilibili)
-* :star: 中文Substrate技术交流 Riot 群 [China Substrate Dev](https://matrix.to/#/!trdlqNGrCsZpYUZoXa:matrix.parity.io?via=matrix.parity.io&via=matrix.org&via=web3.foundation)
 * 国内社区的公众号
   * PolkaWorld
   * Polkabase
@@ -52,17 +60,16 @@ Riot:
 
 
 ## Awesome Substrate
-[https://substrate.dev/awesome-substrate/](https://substrate.dev/awesome-substrate/)
+[https://substrate.dev/awesome-substrate/](https://substrate.dev/awesome-substrate/?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
 
 包含了：
 
 * 官方的wiki，
-  * :star: [polkadot](https://wiki.polkadot.network/), [kusama](https://guide.kusama.network/en/latest/)
-  * :star: [polkadot-js/api](https://polkadot.js.org/api/)
-  * [web3 research](https://research.web3.foundation/en/latest/polkadot/index.html)
+  * :star: [Polkadot](https://wiki.polkadot.network/), [Kusama](https://guide.kusama.network/en/latest/)
+  * :star: [Polkadot-js/api](https://polkadot.js.org/api/)
+  * [Web3 research](https://research.web3.foundation/en/latest/polkadot/index.html)
 * 问答或者交流的channel, 如
   * :star: [Stackoverflow](https://stackoverflow.com/questions/tagged/substrate)
-  * :star: Riot
-* web 3.0, blockchain 演讲资料
+* Web 3.0, blockchain 演讲资料
 * 基于Substrate的项目
-* polkadot的架构图
+* Polkadot的架构图
