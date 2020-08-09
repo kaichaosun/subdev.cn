@@ -169,7 +169,7 @@ construct_runtime!(
 );
 ```
 
-> [**宏**](https://en.wikipedia.org/wiki/Metaprogramming)通常被称为元编程，根据提供的代码可以生成新的代码，实现代码复用。Substrate使用了大量的宏来减轻开发人员的工作，让人"又爱又恨"，更多细节参考 [`construct_runtime!`](../runtime/macros/construct_runtime.md)。
+> [**宏**](https://en.wikipedia.org/wiki/Metaprogramming)通常被称为元编程，根据提供的代码可以生成新的代码，实现代码复用。Substrate使用了大量的宏来减轻开发人员的工作，让人"又爱又恨"，更多细节参考 [`construct_runtime!`](https://substrate.dev/docs/en/knowledgebase/runtime/macros#construct_runtime)。
 
 接下来，重新编译我们的节点程序：
 
@@ -266,7 +266,7 @@ fn set_payment(origin, value: T::Balance) -> Result {
 }
 ```
 我们的 `set_payment` 函数需要两个参数，
-* `origin`， 类型为 [SRML system](https://substrate.dev/rustdocs/v1.0/srml_system/type.Origin.html) 模块定义的`T::Origin`，包含了函数调用的发出方。这个参数总是作为可调用函数的第一个参数。Substrate允许我们为这个参数缺省类型签名来简化工作。参考这里[Origin的定义](../overview/glossary.md#origin)。
+* `origin`， 类型为 [SRML system](https://substrate.dev/rustdocs/v1.0/srml_system/type.Origin.html) 模块定义的`T::Origin`，包含了函数调用的发出方。这个参数总是作为可调用函数的第一个参数。Substrate允许我们为这个参数缺省类型签名来简化工作。参考这里[Origin的定义](https://substrate.dev/docs/en/knowledgebase/getting-started/glossary#aggregation)。
 * `value` ，类型为 `T::Balance`，用来初始化 `Payment` 和`Pot`。
 
 接下来，我们来实现 `play` 函数：
