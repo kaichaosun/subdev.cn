@@ -26,13 +26,14 @@ module.exports = {
       // Optional fields.
       // anonymizeIP: true, // Should IPs be anonymized?
     },
-    items: {
+    navbar: {
+      hideOnScroll: true,
       title: '主页',
       logo: {
         alt: 'SubDev',
         src: 'img/substrate-logo.png',
       },
-      links: [
+      items: [
         {to: 'docs/learn_resource', label: '学习资料', position: 'left'},
         {to: 'docs/course', label: '课程', position: 'left'},
         {href: 'https://zhuanlan.zhihu.com/substrate', label: '专栏', position: 'right'},
