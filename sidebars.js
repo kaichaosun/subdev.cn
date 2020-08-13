@@ -17,6 +17,7 @@ module.exports = {
     如何学习: [
       'learn_resource',
       'course',
+      "faq",
       "translate",
     ],
     区块链应用开发: [

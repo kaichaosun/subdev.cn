@@ -1,7 +1,7 @@
 ---
 id: translate
 title: Substrate官方文档翻译指南
-sidebar_label: Substrate官方文档翻译指南
+sidebar_label: 官方文档翻译指南
 ---
 
 ## 翻译 
