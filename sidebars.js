@@ -17,6 +17,7 @@ module.exports = {
     如何学习: [
       'learn_resource',
       'course',
+      'node_template_help',
       "faq",
       "translate",
     ],
