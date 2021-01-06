@@ -21,12 +21,15 @@ module.exports = {
       "faq",
       "translate",
     ],
-    区块链应用开发: [
+    公链开发: [
       'dappchain/install',
       'dappchain/setup_local_network',
       'dappchain/add_custom_module',
       'dappchain/add_test',
       'dappchain/add_ui'
-    ],
+	],
+	联盟链开发: [
+	  'consortium/features',
+	]
   },
 };
