@@ -20,7 +20,6 @@ sidebar_label: 课程和直播
 * [如何领取参与抵押中的奖励](https://www.bilibili.com/video/BV1dV411k7Ke)
 * [如何使用 Kusama 水龙头](https://www.bilibili.com/video/BV1fC4y1H7XG)
 * [如何設置哨兵节点 (Sentry Node)](https://www.bilibili.com/video/BV1jZ4y1p7AY)
-* [如何参与金丝雀 (Kusama) 治理]()
 
 ### 深入
 
