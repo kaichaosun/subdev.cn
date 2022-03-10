@@ -18,8 +18,8 @@ module.exports = {
   url: 'https://subdev.cn',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'substrater', // Usually your GitHub org/user name.
-  projectName: 'SubDev', // Usually your repo name.
+  organizationName: 'kaichaosun', // Usually your GitHub org/user name.
+  projectName: 'subdev', // Usually your repo name.
   themeConfig: {
     gtag: {
       trackingID: 'UA-128168145-2',
@@ -39,7 +39,7 @@ module.exports = {
 		{to: 'docs/consortium/features', label: '联盟链开发', position: 'left'},
         {to: 'docs/course', label: '课程', position: 'left'},
         {href: 'https://zhuanlan.zhihu.com/substrate', label: '专栏', position: 'right'},
-        {href: 'https://substrate.dev?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post', label: 'substrate.dev', position: 'right'},
+        {href: 'https://substrate.io?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post', label: 'substrate.io', position: 'right'},
         {
           href: 'https://github.com/ParityAsia/subdev.cn',
           label: 'Github',
@@ -74,10 +74,6 @@ module.exports = {
               label: 'Bilibili',
               href: 'https://space.bilibili.com/67358318',
             },
-            {
-              label: '论坛',
-              href: 'https://substrater.org',
-            }
           ],
         },
         {

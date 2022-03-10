@@ -13,7 +13,7 @@ sidebar_label: 开发功能模块
 
 ## 预备
 
-1. 快速安装Substrate依赖（如已安装，请跳过），详细内容参考开发者中心文档[Installing Substrate](<https://substrate.dev/docs/en/getting-started/installing-substrate#fast-installation>)：
+1. 快速安装Substrate依赖（如已安装，请跳过），详细内容参考开发者中心文档[Installing Substrate](<https://substrate.io/docs/en/getting-started/installing-substrate#fast-installation>)：
 
 ```bash
 curl https://getsubstrate.io -sSf | bash -s -- --fast
@@ -169,7 +169,7 @@ construct_runtime!(
 );
 ```
 
-> [**宏**](https://en.wikipedia.org/wiki/Metaprogramming)通常被称为元编程，根据提供的代码可以生成新的代码，实现代码复用。Substrate使用了大量的宏来减轻开发人员的工作，让人"又爱又恨"，更多细节参考 [`construct_runtime!`](https://substrate.dev/docs/en/knowledgebase/runtime/macros#construct_runtime)。
+> [**宏**](https://en.wikipedia.org/wiki/Metaprogramming)通常被称为元编程，根据提供的代码可以生成新的代码，实现代码复用。Substrate使用了大量的宏来减轻开发人员的工作，让人"又爱又恨"，更多细节参考 [`construct_runtime!`](https://substrate.io/docs/en/knowledgebase/runtime/macros#construct_runtime)。
 
 接下来，重新编译我们的节点程序：
 
@@ -216,7 +216,7 @@ decl_storage! {
 * `Pot` 类型为 `T::Balance` ，保存了上次获胜者之后累积的所有奖励。
 * `Nonce` 为`u64`类型的整数，我们将会在生成随机数的时候用到。
 
- `Balance` 类型是由 [SRML balances](https://substrate.dev/rustdocs/v1.0/srml_balances/index.html) 模块提供的，用来表示账户的余额。要使用它，需要将我们模块的配置接口修改为依赖 [balances Trait](https://substrate.dev/rustdocs/v1.0/srml_balances/trait.Trait.html):
+ `Balance` 类型是由 [SRML balances](https://substrate.io/rustdocs/v1.0/srml_balances/index.html) 模块提供的，用来表示账户的余额。要使用它，需要将我们模块的配置接口修改为依赖 [balances Trait](https://substrate.io/rustdocs/v1.0/srml_balances/trait.Trait.html):
 ```rust
 pub trait Trait: balances::Trait {
     // --snip--
@@ -266,7 +266,7 @@ fn set_payment(origin, value: T::Balance) -> Result {
 }
 ```
 我们的 `set_payment` 函数需要两个参数，
-* `origin`， 类型为 [SRML system](https://substrate.dev/rustdocs/v1.0/srml_system/type.Origin.html) 模块定义的`T::Origin`，包含了函数调用的发出方。这个参数总是作为可调用函数的第一个参数。Substrate允许我们为这个参数缺省类型签名来简化工作。参考这里[Origin的定义](https://substrate.dev/docs/en/knowledgebase/getting-started/glossary#aggregation)。
+* `origin`， 类型为 [SRML system](https://substrate.io/rustdocs/v1.0/srml_system/type.Origin.html) 模块定义的`T::Origin`，包含了函数调用的发出方。这个参数总是作为可调用函数的第一个参数。Substrate允许我们为这个参数缺省类型签名来简化工作。参考这里[Origin的定义](https://substrate.io/docs/en/knowledgebase/getting-started/glossary#aggregation)。
 * `value` ，类型为 `T::Balance`，用来初始化 `Payment` 和`Pot`。
 
 接下来，我们来实现 `play` 函数：
@@ -322,7 +322,7 @@ fn play(origin) -> Result {
  use support::traits::{Currency, WithdrawReason, ExistenceRequirement};
  ```
 
-当硬币被抛出之后，用户有百分之五十的几率获胜。为了模拟这样的情况，首先生成一个0到255的随机数，再拿这个随机数跟128进行比较，如果小于128，那么用户获胜并获得奖池中的奖金；反之失败，用户什么都没有得到。最后更新存储项，为下一次游戏做准备。关于更多的随机数生成，请参考 [Generating Random Data](https://substrate.dev/substrate-collectables-workshop/#/2/generating-random-data) 页面
+当硬币被抛出之后，用户有百分之五十的几率获胜。为了模拟这样的情况，首先生成一个0到255的随机数，再拿这个随机数跟128进行比较，如果小于128，那么用户获胜并获得奖池中的奖金；反之失败，用户什么都没有得到。最后更新存储项，为下一次游戏做准备。关于更多的随机数生成，请参考 [Generating Random Data](https://substrate.io/substrate-collectables-workshop/#/2/generating-random-data) 页面
 
 最后还需要引入的依赖有:
 ```rust
@@ -408,8 +408,8 @@ fn play(origin) -> Result {
 
 ## Reference
 
-* [Using the Substrate Scripts](https://substrate.dev/docs/en/getting-started/using-the-substrate-scripts)
-* [Creating Your First Substrate chain](https://substrate.dev/docs/en/tutorials/creating-your-first-substrate-chain)
+* [Using the Substrate Scripts](https://substrate.io/docs/en/getting-started/using-the-substrate-scripts)
+* [Creating Your First Substrate chain](https://substrate.io/docs/en/tutorials/creating-your-first-substrate-chain)
 
 
 

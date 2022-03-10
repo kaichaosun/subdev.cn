@@ -127,6 +127,6 @@ useEffect(() => {
 
 ## 总结
 
-如果你想学习更多前端开发的知识，请参考[Substrate Front-End Tutorial](https://substrate.dev/docs/en/tutorials/substrate-front-end/)，还可以通过不同的练习如[substrate-collectables-workshop](https://github.com/substrate-developer-hub/substrate-collectables-workshop)，甚至编写自己的业务runtime，来巩固这些知识并熟练应用。
+如果你想学习更多前端开发的知识，请参考[Substrate Front-End Tutorial](https://substrate.io/docs/en/tutorials/substrate-front-end/)，还可以通过不同的练习如[substrate-collectables-workshop](https://github.com/substrate-developer-hub/substrate-collectables-workshop)，甚至编写自己的业务runtime，来巩固这些知识并熟练应用。
 
-[Substrate开发者中心](https://substrate.dev/)提供了很多学习资料，时常去逛一下，会有不同的收获。
+[Substrate开发者中心](https://substrate.io/)提供了很多学习资料，时常去逛一下，会有不同的收获。

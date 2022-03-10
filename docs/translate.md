@@ -8,9 +8,9 @@ sidebar_label: 官方文档翻译指南
 
 翻译是以文件为单位的形式进行的，大家可以选自己感兴趣的进行翻译，如果想做proofreading的话，发送邮件到substrate-developer-hub@parity.io。 
 
-具体步骤: [https://substrate.dev/docs/en/contribute/help-translate](https://substrate.dev/docs/en/contribute/help-translate?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
+具体步骤: [https://substrate.io/docs/en/contribute/help-translate](https://substrate.io/docs/en/contribute/help-translate?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
 
-翻译之后保存即可，approve之后会出现在substrate.dev网站上。 
+翻译之后保存即可，approve之后会出现在substrate.io网站上。 
 
 ### 准则： 
 
@@ -20,7 +20,7 @@ sidebar_label: 官方文档翻译指南
 
 ### Tips 
 
-* 翻译前，熟悉一下substrate.dev中文翻译的整体风格。 
+* 翻译前，熟悉一下substrate.io中文翻译的整体风格。 
 
 * 无需翻译的专有名词：runtime，transaction, inherents, extrinsic。 
 * （ 重要 ）文件title部分中的id,orginal_id 不翻译。 

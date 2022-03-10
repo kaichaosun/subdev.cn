@@ -268,7 +268,7 @@ Substrate区块链的初始启动信息在`chainspec`的json文件中维护着�
 
 ## 参考资料
 
-- [Start a Private Network with Substrate](https://docs.substrate.dev/docs/deploying-a-substrate-node-chain)
+- [Start a Private Network with Substrate](https://docs.substrate.io/docs/deploying-a-substrate-node-chain)
 
 
 

@@ -5,14 +5,14 @@ sidebar_label: 资料列表
 ---
 
 ## 官方文档
-[https://substrate.dev](https://substrate.dev?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
+[https://substrate.io](https://substrate.io?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
 
 包含了：
-* :star: [Substrate概念文档](https://substrate.dev/docs/en/?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
-* :star: [Substrate的Rust代码文档](https://substrate.dev/rustdocs?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
-* :star: [Substrate Recipes代码](https://substrate.dev/recipes/?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
-* :star: [Substrate 教程](https://substrate.dev/en/tutorials?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
-* :star: [Substrate线上学习讨论会](https://substrate.dev/en/seminar?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
+* :star: [Substrate概念文档](https://substrate.io/docs/en/?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
+* :star: [Substrate的Rust代码文档](https://substrate.io/rustdocs?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
+* :star: [Substrate Recipes代码](https://substrate.io/recipes/?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
+* :star: [Substrate 教程](https://substrate.io/en/tutorials?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
+* :star: [Substrate线上学习讨论会](https://substrate.io/en/seminar?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
 
 ## 官方技术支持
 
@@ -27,7 +27,7 @@ sidebar_label: 资料列表
 ## 官方中文技术支持
 
 * :star: 技术交流群 [Substrate 技术中文](https://matrix.to/#/!trdlqNGrCsZpYUZoXa:matrix.parity.io?via=matrix.parity.io&via=matrix.org&via=web3.foundation)
-* :star: 官方中文文档: [substrate.dev](https://substrate.dev/zh-CN/?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
+* :star: 官方中文文档: [substrate.io](https://substrate.io/zh-CN/?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
 * :star: Parity技术文章: [parity.link/zhihu](https://parity.link/zhihu)
 * :star: Parity中文视频: [parity.link/bilibili](https://parity.link/bilibili)
 
@@ -60,7 +60,7 @@ sidebar_label: 资料列表
 
 
 ## Awesome Substrate
-[https://substrate.dev/awesome-substrate/](https://substrate.dev/awesome-substrate/?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
+[https://substrate.io/awesome-substrate/](https://substrate.io/awesome-substrate/?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
 
 包含了：
 
