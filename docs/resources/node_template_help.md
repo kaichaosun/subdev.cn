@@ -1,9 +1,10 @@
 ---
 id: node_template_help
 title: Node template 命令行
-sidebar_label: node template 命令行
+sidebar_label: Node template 命令行
 ---
 
+```shell
 node-template 4.0.0-dev-5f8949a-aarch64-macos
 Substrate DevHub <https://github.com/substrate-developer-hub>
 A fresh FRAME-based Substrate node, ready for hacking.
@@ -310,3 +311,4 @@ SUBCOMMANDS:
     revert           Revert the chain to a previous state
     try-runtime      Try some command against runtime state. Note: `try-runtime` feature must be
                          enabled
+```

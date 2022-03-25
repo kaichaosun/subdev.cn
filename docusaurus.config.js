@@ -21,11 +21,6 @@ module.exports = {
   organizationName: 'kaichaosun', // Usually your GitHub org/user name.
   projectName: 'subdev', // Usually your repo name.
   themeConfig: {
-    gtag: {
-      trackingID: 'UA-128168145-2',
-      // Optional fields.
-      // anonymizeIP: true, // Should IPs be anonymized?
-    },
     navbar: {
       hideOnScroll: true,
       title: '主页',
@@ -34,7 +29,7 @@ module.exports = {
         src: 'img/substrate-logo.png',
       },
       items: [
-		{to: 'docs/learn_resource', label: '资料', position: 'left'},
+		{to: 'docs/resources/learn_resource', label: '资料', position: 'left'},
 		{to: 'docs/dappchain/install', label: '公链开发', position: 'left'},
 		{to: 'docs/consortium/features', label: '联盟链开发', position: 'left'},
         {href: 'https://zhuanlan.zhihu.com/substrate', label: '专栏', position: 'right'},
@@ -54,7 +49,7 @@ module.exports = {
           items: [
             {
               label: '常用资料',
-              to: 'docs/learn_resource',
+              to: 'docs/resources/learn_resource',
             },
             {
               label: 'substrate.io',
@@ -101,6 +96,11 @@ module.exports = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+        },
+        gtag: {
+          trackingID: 'UA-128168145-2',
+          // Optional fields.
+          // anonymizeIP: true, // Should IPs be anonymized?
         },
       },
     ],

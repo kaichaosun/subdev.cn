@@ -1,7 +1,7 @@
 ---
 id: how_to_blockchain
-title: 区块链开发入门
-sidebar_label: 入门区块链开发
+title: 理解区块链
+sidebar_label: 理解区块链
 ---
 
 **去中心的理念：**
