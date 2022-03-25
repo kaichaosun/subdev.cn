@@ -8,11 +8,12 @@ sidebar_label: 资料列表
 [https://substrate.io](https://substrate.io?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
 
 包含了：
-* :star: [Substrate概念文档](https://substrate.io/docs/en/?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
-* :star: [Substrate的Rust代码文档](https://substrate.io/rustdocs?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
-* :star: [Substrate Recipes代码](https://substrate.io/recipes/?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
-* :star: [Substrate 教程](https://substrate.io/en/tutorials?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
-* :star: [Substrate线上学习讨论会](https://substrate.io/en/seminar?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
+* :star: :star: [Substrate开发者文档](https://docs.substrate.io/v3/getting-started/overview/?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
+* :star: :star: [Stack Exchange上Substrate的问题和解答](https://substrate.stackexchange.com/)
+* :star: [Substrate的Rust代码文档](https://docs.substrate.io/rustdocs/?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
+* :star: [Substrate案例和代码](https://docs.substrate.io/how-to-guides/v3/?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
+* :star: [Substrate教程](https://docs.substrate.io/tutorials/v3/?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
+* :star: [Substrate线上学习讨论会](https://substrate.io/ecosystem/resources/seminar/?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post)
 
 ## 官方技术支持
 

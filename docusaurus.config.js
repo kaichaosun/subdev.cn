@@ -41,7 +41,7 @@ module.exports = {
         {href: 'https://zhuanlan.zhihu.com/substrate', label: '专栏', position: 'right'},
         {href: 'https://substrate.io?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post', label: 'substrate.io', position: 'right'},
         {
-          href: 'https://github.com/ParityAsia/subdev.cn',
+          href: 'https://github.com/kaichaosun/subdev.cn',
           label: 'Github',
           position: 'right',
         },
