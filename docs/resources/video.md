@@ -1,10 +1,10 @@
 ---
-id: course
-title: Substrate 课程和直播
-sidebar_label: 课程和直播
+id: video
+title: Substrate 视频和直播
+sidebar_label: 视频和直播
 ---
 
-## 课程
+## 视频
 ### 入门
 
 * [搭建Substrate开发环境](https://www.bilibili.com/video/BV1VQ4y1M7YH/)
@@ -28,10 +28,6 @@ sidebar_label: 课程和直播
 * [Substrate 链下工作机 (off-chain worker) 02 - 具签名交易及无签名交易](https://www.bilibili.com/video/BV18K4y1C7zj/)
 * [Substrate 交易费用设计](https://www.bilibili.com/video/BV1AA411t7TL/)
 * [Polkadot 治理模式演示](https://www.bilibili.com/video/BV1oV411d73J)
-
-
-### 部署
-
 
 ## 直播
 

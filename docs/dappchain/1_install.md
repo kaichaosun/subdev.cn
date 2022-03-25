@@ -6,7 +6,7 @@ sidebar_label: 安装开发环境
 
 ## 官方安装指南
 
-[安装指南](https://www.substrate.io/kb/getting-started#fast-installation)
+[安装指南](https://docs.substrate.io/v3/getting-started/installation/)
 
 ## 使用Docker
 

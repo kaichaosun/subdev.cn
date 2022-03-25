@@ -15,11 +15,10 @@
 module.exports = {
   docs: {
     如何学习: [
-      'learn_resource',
-      'course',
-      'node_template_help',
-      "faq",
-      "translate",
+      'resources/learn_resource',
+      'resources/how_to_blockchain',
+      'resources/video',
+      'resources/node_template_help',
     ],
     公链开发: [
       'dappchain/install',
@@ -27,9 +26,9 @@ module.exports = {
       'dappchain/add_custom_module',
       'dappchain/add_test',
       'dappchain/add_ui'
-	],
-	联盟链开发: [
-	  'consortium/features',
-	]
+    ],
+    联盟链开发: [
+      'consortium/features',
+    ]
   },
 };
