@@ -48,18 +48,13 @@ module.exports = {
           title: '文档',
           items: [
             {
-              label: '常用资料',
+              label: '中文资料',
               to: 'docs/resources/learn_resource',
             },
             {
               label: 'substrate.io',
-              href: 'https://substrate.io',
+              href: 'https://substrate.io?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post',
             },
-          ],
-        },
-        {
-          title: '社区',
-          items: [
             {
               label: '知乎专栏',
               href: 'https://zhuanlan.zhihu.com/substrate',
@@ -67,6 +62,23 @@ module.exports = {
             {
               label: 'Bilibili',
               href: 'https://space.bilibili.com/67358318',
+            },
+          ],
+        },
+        {
+          title: '开发者支持',
+          items: [
+            {
+              label: 'Web3.0 训练营',
+              to: 'https://bootcamp.web3.foundation',
+            },
+            {
+              label: 'Substrate Builder Program',
+              to: 'https://substrate.io/ecosystem/substrate-builders-program/',
+            },
+            {
+              label: 'Web3 Grants',
+              to: 'https://web3.foundation/grants/',
             },
           ],
         },
