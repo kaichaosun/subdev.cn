@@ -20,6 +20,7 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'kaichaosun', // Usually your GitHub org/user name.
   projectName: 'subdev', // Usually your repo name.
+  onBrokenLinks: 'warn',
   themeConfig: {
     navbar: {
       hideOnScroll: true,
