@@ -29,10 +29,9 @@ module.exports = {
         src: 'img/substrate-logo.png',
       },
       items: [
-		{to: 'docs/resources/learn_resource', label: '资料', position: 'left'},
-		{to: 'docs/dappchain/install', label: '公链开发', position: 'left'},
-		{to: 'docs/consortium/features', label: '联盟链开发', position: 'left'},
-        {href: 'https://zhuanlan.zhihu.com/substrate', label: '专栏', position: 'right'},
+		{to: 'docs/resources/learn_resource', label: '文档', position: 'left'},
+		{to: 'docs/dappchain/install', label: '公链', position: 'left'},
+		{to: 'docs/consortium/features', label: '联盟链', position: 'left'},
         {href: 'https://substrate.io?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post', label: 'substrate.io', position: 'right'},
         {
           href: 'https://github.com/kaichaosun/subdev.cn',
@@ -56,7 +55,7 @@ module.exports = {
               href: 'https://substrate.io?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post',
             },
             {
-              label: '知乎专栏',
+              label: '知乎',
               href: 'https://zhuanlan.zhihu.com/substrate',
             },
             {

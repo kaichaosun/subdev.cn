@@ -20,6 +20,11 @@ module.exports = {
       'resources/video',
       'resources/node_template_help',
     ],
+    Substrate文档: {
+      重要概念: [
+        'substrate/learn-substrate/extrinsics'
+      ]
+    },
     公链开发: [
       'dappchain/install',
       'dappchain/setup_local_network',
@@ -30,5 +35,5 @@ module.exports = {
     联盟链开发: [
       'consortium/features',
     ]
-  },
+  }
 };
