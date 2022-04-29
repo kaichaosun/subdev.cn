@@ -30,15 +30,20 @@ module.exports = {
         src: 'img/substrate-logo.png',
       },
       items: [
-		{to: 'docs/resources/learn_resource', label: '文档', position: 'left'},
-		{to: 'docs/dappchain/install', label: '公链', position: 'left'},
-		{to: 'docs/consortium/features', label: '联盟链', position: 'left'},
-        {href: 'https://substrate.io?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post', label: 'substrate.io', position: 'right'},
+        { to: 'docs/resources/learn_resource', label: '文档', position: 'left' },
+        { to: 'docs/dappchain/install', label: '公链', position: 'left' },
+        { to: 'docs/consortium/features', label: '联盟链', position: 'left' },
         {
-          href: 'https://github.com/kaichaosun/subdev.cn',
-          label: 'Github',
+          href: 'https://github.com/kaichaosun/subdev.cn/discussions',
+          label: '论坛',
           position: 'right',
         },
+        {
+          href: 'https://substrate.io?utm_source=subdevcn&utm_medium=post&utm_campaign=weekly_post',
+          label: 'substrate.io',
+          position: 'right'
+        },
+
       ],
     },
     footer: {
@@ -88,6 +93,10 @@ module.exports = {
             {
               label: '博客',
               to: 'blog',
+            },
+            {
+              label: 'Github',
+              to: 'https://github.com/kaichaosun/subdev.cn',
             },
           ],
         },
