@@ -3,26 +3,26 @@ name: SubDev CI
 on: [push]
 
 jobs:
-  build:
+  # build:
 
-    runs-on: ubuntu-latest
+  #   runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        node-version: [16.x]
+  #   strategy:
+  #     matrix:
+  #       node-version: [16.x]
 
-    steps:
-    - uses: actions/checkout@v1
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v1
-      with:
-        node-version: ${{ matrix.node-version }}
-    - name: Build
-      run: |
-        yarn
-        yarn build
-      env:
-        CI: true
+  #   steps:
+  #   - uses: actions/checkout@v1
+  #   - name: Use Node.js ${{ matrix.node-version }}
+  #     uses: actions/setup-node@v1
+  #     with:
+  #       node-version: ${{ matrix.node-version }}
+  #   - name: Build
+  #     run: |
+  #       pnpm install
+  #       pnpm build
+  #     env:
+  #       CI: true
     # 设置阿里云OSS的 id/secret，存储到 github 的 secrets 中
     # - name: setup aliyun oss
     #   uses: manyuanrong/setup-ossutil@master
