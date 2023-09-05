@@ -20,11 +20,17 @@ module.exports = {
       'resources/video',
       'resources/node_template_help',
     ],
-    Substrate文档: {
-      重要概念: [
-        'substrate/learn-substrate/extrinsics'
-      ]
-    },
+    Substrate文档: [
+      'substrate/substrate-welcome',
+      'substrate/substrate-blockchain-basics',
+      'substrate/substrate-architecture',
+      'substrate/substrate-account',
+      'substrate/substrate-consensus',
+      'substrate/substrate-cryptography',
+      'substrate/substrate-network-nodes',
+      'substrate/substrate-transaction-lifecycle',
+      'substrate/learn-substrate/extrinsics',
+    ],
     公链开发: [
       'dappchain/install',
       'dappchain/setup_local_network',
