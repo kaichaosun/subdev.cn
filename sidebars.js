@@ -34,6 +34,9 @@ const sidebars = {
       'substrate/substrate-transaction-lifecycle',
       'substrate/learn-substrate/extrinsics',
     ],
+    Polkadot文档: [
+      'polkadot/agile_coretime',
+    ],
     公链开发: [
       'dappchain/install',
       'dappchain/setup_local_network',
